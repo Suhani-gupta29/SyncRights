@@ -1,0 +1,848 @@
+{
+  "tracks": [
+    {
+      "track_id": "trk_041",
+      "title": "Velvet Horizon",
+      "artist": "Maya Lin",
+      "aliases": [
+        "Velvet Horizons",
+        "Horizon Velvet"
+      ],
+      "genre": [
+        "indie pop",
+        "synthwave"
+      ],
+      "release_year": 2019,
+      "versions": [
+        "ver_041_a",
+        "ver_041_b",
+        "ver_041_c"
+      ]
+    },
+    {
+      "track_id": "trk_042",
+      "title": "Echoes in the Dark",
+      "artist": "Liam Vance",
+      "aliases": [
+        "Echoes Dark",
+        "Dark Echoes"
+      ],
+      "genre": [
+        "alternative rock",
+        "indie"
+      ],
+      "release_year": 2017,
+      "versions": [
+        "ver_042_a",
+        "ver_042_b",
+        "ver_042_c"
+      ]
+    },
+    {
+      "track_id": "trk_043",
+      "title": "Midnight Drive",
+      "artist": "Julian Cross",
+      "aliases": [
+        "Midnight Drives",
+        "Drive at Midnight"
+      ],
+      "genre": [
+        "synthwave",
+        "electronic"
+      ],
+      "release_year": 2020,
+      "versions": [
+        "ver_043_a",
+        "ver_043_b",
+        "ver_043_c"
+      ]
+    },
+    {
+      "track_id": "trk_044",
+      "title": "Stardust Memories",
+      "artist": "Elena Rostova",
+      "aliases": [
+        "Stardust Memory",
+        "Memories of Stardust"
+      ],
+      "genre": [
+        "dream pop",
+        "ambient"
+      ],
+      "release_year": 2016,
+      "versions": [
+        "ver_044_a",
+        "ver_044_b",
+        "ver_044_c"
+      ]
+    },
+    {
+      "track_id": "trk_045",
+      "title": "Shattered Mirrors",
+      "artist": "Owen Mercer",
+      "aliases": [
+        "Shattered Mirror",
+        "Mirrors Shattered"
+      ],
+      "genre": [
+        "rock",
+        "post-punk"
+      ],
+      "release_year": 2015,
+      "versions": [
+        "ver_045_a",
+        "ver_045_b",
+        "ver_045_c"
+      ]
+    },
+    {
+      "track_id": "trk_046",
+      "title": "Ocean Whisper",
+      "artist": "Isla Sterling",
+      "aliases": [
+        "Ocean Whispers",
+        "Whisper Ocean"
+      ],
+      "genre": [
+        "folk",
+        "acoustic"
+      ],
+      "release_year": 2021,
+      "versions": [
+        "ver_046_a",
+        "ver_046_b",
+        "ver_046_c"
+      ]
+    },
+    {
+      "track_id": "trk_047",
+      "title": "Golden Rust",
+      "artist": "Caleb Thorne",
+      "aliases": [
+        "Gold Rust",
+        "Rust Golden"
+      ],
+      "genre": [
+        "blues",
+        "americana"
+      ],
+      "release_year": 2014,
+      "versions": [
+        "ver_047_a",
+        "ver_047_b",
+        "ver_047_c"
+      ]
+    },
+    {
+      "track_id": "trk_048",
+      "title": "Celestial Tide",
+      "artist": "Amara Sun",
+      "aliases": [
+        "Celestial Tides",
+        "Tide Celestial"
+      ],
+      "genre": [
+        "world",
+        "ambient"
+      ],
+      "release_year": 2022,
+      "versions": [
+        "ver_048_a",
+        "ver_048_b",
+        "ver_048_c"
+      ]
+    },
+    {
+      "track_id": "trk_049",
+      "title": "Shadow Dance",
+      "artist": "Leo Valenti",
+      "aliases": [
+        "Shadow Dances",
+        "Dance of Shadows"
+      ],
+      "genre": [
+        "dance",
+        "electronic"
+      ],
+      "release_year": 2018,
+      "versions": [
+        "ver_049_a",
+        "ver_049_b",
+        "ver_049_c"
+      ]
+    },
+    {
+      "track_id": "trk_050",
+      "title": "Cosmic Drift",
+      "artist": "Nova Ray",
+      "aliases": [
+        "Cosmic Drifts",
+        "Drift Cosmic"
+      ],
+      "genre": [
+        "lo-fi",
+        "chillhop"
+      ],
+      "release_year": 2023,
+      "versions": [
+        "ver_050_a",
+        "ver_050_b",
+        "ver_050_c"
+      ]
+    },
+    {
+      "track_id": "trk_051",
+      "title": "Autumn Reverie",
+      "artist": "Silas Thorne",
+      "aliases": [
+        "Autumn Reveries",
+        "Reverie Autumn"
+      ],
+      "genre": [
+        "classical crossover",
+        "piano"
+      ],
+      "release_year": 2016,
+      "versions": [
+        "ver_051_a",
+        "ver_051_b",
+        "ver_051_c"
+      ]
+    },
+    {
+      "track_id": "trk_052",
+      "title": "Electric Bloom",
+      "artist": "Zephyr",
+      "aliases": [
+        "Electric Blooms",
+        "Blooms Electric"
+      ],
+      "genre": [
+        "indie pop",
+        "synth pop"
+      ],
+      "release_year": 2020,
+      "versions": [
+        "ver_052_a",
+        "ver_052_b",
+        "ver_052_c"
+      ]
+    },
+    {
+      "track_id": "trk_053",
+      "title": "Crimson Tide",
+      "artist": "Freya Lind",
+      "aliases": [
+        "Crimson Tides",
+        "Tides Crimson"
+      ],
+      "genre": [
+        "alternative",
+        "dark wave"
+      ],
+      "release_year": 2019,
+      "versions": [
+        "ver_053_a",
+        "ver_053_b",
+        "ver_053_c"
+      ]
+    },
+    {
+      "track_id": "trk_054",
+      "title": "Neon Rain",
+      "artist": "Victor Vance",
+      "aliases": [
+        "Neon Rains",
+        "Rain Neon"
+      ],
+      "genre": [
+        "synthwave",
+        "retrowave"
+      ],
+      "release_year": 2021,
+      "versions": [
+        "ver_054_a",
+        "ver_054_b",
+        "ver_054_c"
+      ]
+    },
+    {
+      "track_id": "trk_055",
+      "title": "Silent Valley",
+      "artist": "Oliver Stone",
+      "aliases": [
+        "Silent Valleys",
+        "Valley Silent"
+      ],
+      "genre": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "release_year": 2015,
+      "versions": [
+        "ver_055_a",
+        "ver_055_b",
+        "ver_055_c"
+      ]
+    },
+    {
+      "track_id": "trk_056",
+      "title": "Parallels",
+      "artist": "Kai Brooks",
+      "aliases": [
+        "Parallel",
+        "Parallel Lines"
+      ],
+      "genre": [
+        "house",
+        "deep house"
+      ],
+      "release_year": 2022,
+      "versions": [
+        "ver_056_a",
+        "ver_056_b",
+        "ver_056_c"
+      ]
+    },
+    {
+      "track_id": "trk_057",
+      "title": "Luminous Pulse",
+      "artist": "Astra",
+      "aliases": [
+        "Luminous Pulses",
+        "Pulse Luminous"
+      ],
+      "genre": [
+        "trance",
+        "electronic"
+      ],
+      "release_year": 2023,
+      "versions": [
+        "ver_057_a",
+        "ver_057_b",
+        "ver_057_c"
+      ]
+    },
+    {
+      "track_id": "trk_058",
+      "title": "Vintage Strings",
+      "artist": "Arthur Pendelton",
+      "aliases": [
+        "Vintage String",
+        "Strings Vintage"
+      ],
+      "genre": [
+        "jazz",
+        "acoustic"
+      ],
+      "release_year": 2013,
+      "versions": [
+        "ver_058_a",
+        "ver_058_b",
+        "ver_058_c"
+      ]
+    },
+    {
+      "track_id": "trk_059",
+      "title": "Solitude",
+      "artist": "Maya Hawke",
+      "aliases": [
+        "Solitudes",
+        "Sweet Solitude"
+      ],
+      "genre": [
+        "soul",
+        "R&B"
+      ],
+      "release_year": 2018,
+      "versions": [
+        "ver_059_a",
+        "ver_059_b",
+        "ver_059_c"
+      ]
+    },
+    {
+      "track_id": "trk_060",
+      "title": "Fading Horizon",
+      "artist": "Rowan Blake",
+      "aliases": [
+        "Fading Horizons",
+        "Horizon Fading"
+      ],
+      "genre": [
+        "ambient",
+        "drone"
+      ],
+      "release_year": 2017,
+      "versions": [
+        "ver_060_a",
+        "ver_060_b",
+        "ver_060_c"
+      ]
+    }
+  ],
+  "versions": [
+    {
+      "version_id": "ver_041_a",
+      "track_id": "trk_041",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_041_b",
+      "track_id": "trk_041",
+      "display_label": "2023 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_041_c",
+      "track_id": "trk_041",
+      "display_label": "Velvet Horizon Dusk Remix",
+      "version_type": "remix",
+      "featured_artists": [
+        "DJ Kairo"
+      ]
+    },
+    {
+      "version_id": "ver_042_a",
+      "track_id": "trk_042",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_042_b",
+      "track_id": "trk_042",
+      "display_label": "2021 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_042_c",
+      "track_id": "trk_042",
+      "display_label": "Echoes in the Dark Acoustic Cover",
+      "version_type": "cover",
+      "featured_artists": [
+        "Mira Cole"
+      ]
+    },
+    {
+      "version_id": "ver_043_a",
+      "track_id": "trk_043",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_043_b",
+      "track_id": "trk_043",
+      "display_label": "Midnight Drive Extended Club Mix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Synth Boy"
+      ]
+    },
+    {
+      "version_id": "ver_043_c",
+      "track_id": "trk_043",
+      "display_label": "Midnight Drive Live at Tokyo",
+      "version_type": "live",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_044_a",
+      "track_id": "trk_044",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_044_b",
+      "track_id": "trk_044",
+      "display_label": "2022 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_044_c",
+      "track_id": "trk_044",
+      "display_label": "Stardust Memories Chillout Remix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Lunar Echo"
+      ]
+    },
+    {
+      "version_id": "ver_045_a",
+      "track_id": "trk_045",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_045_b",
+      "track_id": "trk_045",
+      "display_label": "2020 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_045_c",
+      "track_id": "trk_045",
+      "display_label": "Shattered Mirrors Garage Cover",
+      "version_type": "cover",
+      "featured_artists": [
+        "The Rustics"
+      ]
+    },
+    {
+      "version_id": "ver_046_a",
+      "track_id": "trk_046",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_046_b",
+      "track_id": "trk_046",
+      "display_label": "2024 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_046_c",
+      "track_id": "trk_046",
+      "display_label": "Ocean Whisper Live Session",
+      "version_type": "live",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_047_a",
+      "track_id": "trk_047",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_047_b",
+      "track_id": "trk_047",
+      "display_label": "2019 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_047_c",
+      "track_id": "trk_047",
+      "display_label": "Golden Rust Unplugged",
+      "version_type": "cover",
+      "featured_artists": [
+        "Dusty Roads"
+      ]
+    },
+    {
+      "version_id": "ver_048_a",
+      "track_id": "trk_048",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_048_b",
+      "track_id": "trk_048",
+      "display_label": "Celestial Tide Deep Ambient Remix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Aura Node"
+      ]
+    },
+    {
+      "version_id": "ver_048_c",
+      "track_id": "trk_048",
+      "display_label": "Celestial Tide Piano Cover",
+      "version_type": "cover",
+      "featured_artists": [
+        "Nadia Key"
+      ]
+    },
+    {
+      "version_id": "ver_049_a",
+      "track_id": "trk_049",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_049_b",
+      "track_id": "trk_049",
+      "display_label": "2022 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_049_c",
+      "track_id": "trk_049",
+      "display_label": "Shadow Dance Festival Edit",
+      "version_type": "remix",
+      "featured_artists": [
+        "DJ Pulse"
+      ]
+    },
+    {
+      "version_id": "ver_050_a",
+      "track_id": "trk_050",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_050_b",
+      "track_id": "trk_050",
+      "display_label": "Cosmic Drift Lo-Fi Beat Edit",
+      "version_type": "remix",
+      "featured_artists": [
+        "Sleepy Vibe"
+      ]
+    },
+    {
+      "version_id": "ver_050_c",
+      "track_id": "trk_050",
+      "display_label": "Cosmic Drift Acoustic Version",
+      "version_type": "cover",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_051_a",
+      "track_id": "trk_051",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_051_b",
+      "track_id": "trk_051",
+      "display_label": "2021 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_051_c",
+      "track_id": "trk_051",
+      "display_label": "Autumn Reverie Orchestral Mix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Royal Philharmonic Ensemble"
+      ]
+    },
+    {
+      "version_id": "ver_052_a",
+      "track_id": "trk_052",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_052_b",
+      "track_id": "trk_052",
+      "display_label": "Electric Bloom Synth Pop Remix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Neon Waves"
+      ]
+    },
+    {
+      "version_id": "ver_052_c",
+      "track_id": "trk_052",
+      "display_label": "Electric Bloom Stripped Back",
+      "version_type": "cover",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_053_a",
+      "track_id": "trk_053",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_053_b",
+      "track_id": "trk_053",
+      "display_label": "2024 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_053_c",
+      "track_id": "trk_053",
+      "display_label": "Crimson Tide Gothic Mix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Shadow Realm"
+      ]
+    },
+    {
+      "version_id": "ver_054_a",
+      "track_id": "trk_054",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_054_b",
+      "track_id": "trk_054",
+      "display_label": "Neon Rain Cyberpunk Remix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Grid Runner"
+      ]
+    },
+    {
+      "version_id": "ver_054_c",
+      "track_id": "trk_054",
+      "display_label": "Neon Rain Live Session",
+      "version_type": "live",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_055_a",
+      "track_id": "trk_055",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_055_b",
+      "track_id": "trk_055",
+      "display_label": "2020 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_055_c",
+      "track_id": "trk_055",
+      "display_label": "Silent Valley Acoustic Cover",
+      "version_type": "cover",
+      "featured_artists": [
+        "Cedar & Pine"
+      ]
+    },
+    {
+      "version_id": "ver_056_a",
+      "track_id": "trk_056",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_056_b",
+      "track_id": "trk_056",
+      "display_label": "Parallels Deep House Club Edit",
+      "version_type": "remix",
+      "featured_artists": [
+        "DJ Groove"
+      ]
+    },
+    {
+      "version_id": "ver_056_c",
+      "track_id": "trk_056",
+      "display_label": "Parallels Chillout Mix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Velvet Waves"
+      ]
+    },
+    {
+      "version_id": "ver_057_a",
+      "track_id": "trk_057",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_057_b",
+      "track_id": "trk_057",
+      "display_label": "Luminous Pulse Vocal Remix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Siren Voice"
+      ]
+    },
+    {
+      "version_id": "ver_057_c",
+      "track_id": "trk_057",
+      "display_label": "Luminous Pulse Live at Ibiza",
+      "version_type": "live",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_058_a",
+      "track_id": "trk_058",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_058_b",
+      "track_id": "trk_058",
+      "display_label": "2018 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_058_c",
+      "track_id": "trk_058",
+      "display_label": "Vintage Strings Quartet Cover",
+      "version_type": "cover",
+      "featured_artists": [
+        "The Strings Ensemble"
+      ]
+    },
+    {
+      "version_id": "ver_059_a",
+      "track_id": "trk_059",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_059_b",
+      "track_id": "trk_059",
+      "display_label": "2023 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_059_c",
+      "track_id": "trk_059",
+      "display_label": "Solitude Neo-Soul Remix",
+      "version_type": "remix",
+      "featured_artists": [
+        "Groove Theory"
+      ]
+    },
+    {
+      "version_id": "ver_060_a",
+      "track_id": "trk_060",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_060_b",
+      "track_id": "trk_060",
+      "display_label": "2022 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_060_c",
+      "track_id": "trk_060",
+      "display_label": "Fading Horizon Ambient Reimagined",
+      "version_type": "remix",
+      "featured_artists": [
+        "Void Drift"
+      ]
+    }
+  ]
+}
