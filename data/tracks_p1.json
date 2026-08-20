@@ -1,0 +1,625 @@
+{
+  "tracks": [
+    {
+      "track_id": "trk_001",
+      "title": "Velvet Comet",
+      "artist": "Nora Venn",
+      "aliases": ["Velvet Comet", "Velvet Comet Song"],
+      "genre": ["indie pop", "electronic"],
+      "release_year": 2016,
+      "versions": ["ver_001_a", "ver_001_b", "ver_001_c"]
+    },
+    {
+      "track_id": "trk_002",
+      "title": "Paper Lanterns",
+      "artist": "Callum Wren",
+      "aliases": ["Paper Lantern", "Paper Lanterns"],
+      "genre": ["folk", "indie"],
+      "release_year": 2018,
+      "versions": ["ver_002_a", "ver_002_b", "ver_002_c"]
+    },
+    {
+      "track_id": "trk_003",
+      "title": "Satellite Garden",
+      "artist": "Mira Solen",
+      "aliases": ["Satellite Gardens", "Sat Garden"],
+      "genre": ["alternative", "dream pop"],
+      "release_year": 2019,
+      "versions": ["ver_003_a", "ver_003_b", "ver_003_c"]
+    },
+    {
+      "track_id": "trk_004",
+      "title": "Copper Skies",
+      "artist": "Julian Roe",
+      "aliases": ["Copper Sky", "Copper Skies"],
+      "genre": ["rock", "alternative"],
+      "release_year": 2014,
+      "versions": ["ver_004_a", "ver_004_b", "ver_004_c"]
+    },
+    {
+      "track_id": "trk_005",
+      "title": "Whisper Circuit",
+      "artist": "Lena Voss",
+      "aliases": ["Whisper Circuits", "Whisper Circuit"],
+      "genre": ["electronic", "ambient"],
+      "release_year": 2020,
+      "versions": ["ver_005_a", "ver_005_b", "ver_005_c"]
+    },
+    {
+      "track_id": "trk_006",
+      "title": "Wildflower Motel",
+      "artist": "Ezra Bloom",
+      "aliases": ["Wild Flower Motel", "Wildflower"],
+      "genre": ["indie rock", "folk"],
+      "release_year": 2017,
+      "versions": ["ver_006_a", "ver_006_b", "ver_006_c"]
+    },
+    {
+      "track_id": "trk_007",
+      "title": "Crimson Frequency",
+      "artist": "Talia Merin",
+      "aliases": ["Crimson Frequencies", "Crimson Freq"],
+      "genre": ["electronic", "synth pop"],
+      "release_year": 2021,
+      "versions": ["ver_007_a", "ver_007_b", "ver_007_c"]
+    },
+    {
+      "track_id": "trk_008",
+      "title": "Hollow Carousel",
+      "artist": "Finn Calder",
+      "aliases": ["Hollow Carousal", "Hollow Carousel"],
+      "genre": ["alternative", "indie pop"],
+      "release_year": 2015,
+      "versions": ["ver_008_a", "ver_008_b", "ver_008_c"]
+    },
+    {
+      "track_id": "trk_009",
+      "title": "Ember on the Water",
+      "artist": "Sana Mirel",
+      "aliases": ["Ember on Water", "Ember Water"],
+      "genre": ["soul", "R&B"],
+      "release_year": 2018,
+      "versions": ["ver_009_a", "ver_009_b", "ver_009_c"]
+    },
+    {
+      "track_id": "trk_010",
+      "title": "Blue Orchard",
+      "artist": "Theo Arden",
+      "aliases": ["The Blue Orchard", "Blue Orchards"],
+      "genre": ["indie", "folk"],
+      "release_year": 2013,
+      "versions": ["ver_010_a", "ver_010_b", "ver_010_c"]
+    },
+    {
+      "track_id": "trk_011",
+      "title": "Glassbird Avenue",
+      "artist": "Iris Keane",
+      "aliases": ["Glass Bird Avenue", "Glassbird"],
+      "genre": ["pop", "alternative"],
+      "release_year": 2022,
+      "versions": ["ver_011_a", "ver_011_b", "ver_011_c"]
+    },
+    {
+      "track_id": "trk_012",
+      "title": "Northbound Echo",
+      "artist": "Ronan Hale",
+      "aliases": ["Northbound Echoes", "Northbound"],
+      "genre": ["rock", "indie"],
+      "release_year": 2016,
+      "versions": ["ver_012_a", "ver_012_b", "ver_012_c"]
+    },
+    {
+      "track_id": "trk_013",
+      "title": "Marble Moonlight",
+      "artist": "Ayla Ren",
+      "aliases": ["Marble Moon", "Marble Moonlight"],
+      "genre": ["dream pop", "ambient"],
+      "release_year": 2020,
+      "versions": ["ver_013_a", "ver_013_b", "ver_013_c"]
+    },
+    {
+      "track_id": "trk_014",
+      "title": "Rust and Reverie",
+      "artist": "Dorian Pike",
+      "aliases": ["Rust & Reverie", "Rust Reverie"],
+      "genre": ["blues", "rock"],
+      "release_year": 2012,
+      "versions": ["ver_014_a", "ver_014_b", "ver_014_c"]
+    },
+    {
+      "track_id": "trk_015",
+      "title": "Lunar Paper Trails",
+      "artist": "Mei Rowan",
+      "aliases": ["Lunar Paper Trail", "Paper Trails"],
+      "genre": ["indie pop", "electronic"],
+      "release_year": 2019,
+      "versions": ["ver_015_a", "ver_015_b", "ver_015_c"]
+    },
+    {
+      "track_id": "trk_016",
+      "title": "Amber Afterglow",
+      "artist": "Silas Grey",
+      "aliases": ["Amber Glow", "Amber After Glow"],
+      "genre": ["R&B", "soul"],
+      "release_year": 2017,
+      "versions": ["ver_016_a", "ver_016_b", "ver_016_c"]
+    },
+    {
+      "track_id": "trk_017",
+      "title": "Tidal Letters",
+      "artist": "Cleo Maren",
+      "aliases": ["Tidal Letter", "Tidal Letters"],
+      "genre": ["folk", "alternative"],
+      "release_year": 2015,
+      "versions": ["ver_017_a", "ver_017_b", "ver_017_c"]
+    },
+    {
+      "track_id": "trk_018",
+      "title": "Electric Meadow",
+      "artist": "Jasper Quinn",
+      "aliases": ["Electric Meadows", "Electic Meadow"],
+      "genre": ["electronic", "indie rock"],
+      "release_year": 2021,
+      "versions": ["ver_018_a", "ver_018_b", "ver_018_c"]
+    },
+    {
+      "track_id": "trk_019",
+      "title": "Quiet Thunder",
+      "artist": "Rhea Fallon",
+      "aliases": ["Quiet Thunders", "Quite Thunder"],
+      "genre": ["alternative", "pop"],
+      "release_year": 2014,
+      "versions": ["ver_019_a", "ver_019_b", "ver_019_c"]
+    },
+    {
+      "track_id": "trk_020",
+      "title": "Saffron Skyline",
+      "artist": "Adrian Moss",
+      "aliases": ["Saffron Sky", "Saffron Skyline"],
+      "genre": ["pop", "world"],
+      "release_year": 2023,
+      "versions": ["ver_020_a", "ver_020_b", "ver_020_c"]
+    }
+  ],
+  "versions": [
+    {
+      "version_id": "ver_001_a",
+      "track_id": "trk_001",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_001_b",
+      "track_id": "trk_001",
+      "display_label": "2022 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_001_c",
+      "track_id": "trk_001",
+      "display_label": "Velvet Comet Night Drive Remix",
+      "version_type": "remix",
+      "featured_artists": ["DJ Solace"]
+    },
+
+    {
+      "version_id": "ver_002_a",
+      "track_id": "trk_002",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_002_b",
+      "track_id": "trk_002",
+      "display_label": "2023 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_002_c",
+      "track_id": "trk_002",
+      "display_label": "Paper Lanterns Acoustic Cover",
+      "version_type": "cover",
+      "featured_artists": ["Elin Rowe"]
+    },
+
+    {
+      "version_id": "ver_003_a",
+      "track_id": "trk_003",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_003_b",
+      "track_id": "trk_003",
+      "display_label": "2024 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_003_c",
+      "track_id": "trk_003",
+      "display_label": "Satellite Garden Aurora Remix",
+      "version_type": "remix",
+      "featured_artists": ["Kade Lux"]
+    },
+
+    {
+      "version_id": "ver_004_a",
+      "track_id": "trk_004",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_004_b",
+      "track_id": "trk_004",
+      "display_label": "2021 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_004_c",
+      "track_id": "trk_004",
+      "display_label": "Copper Skies Live Remix",
+      "version_type": "remix",
+      "featured_artists": ["Milo Crest"]
+    },
+
+    {
+      "version_id": "ver_005_a",
+      "track_id": "trk_005",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_005_b",
+      "track_id": "trk_005",
+      "display_label": "2024 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_005_c",
+      "track_id": "trk_005",
+      "display_label": "Whisper Circuit Deep Pulse Remix",
+      "version_type": "remix",
+      "featured_artists": ["Nox Vale"]
+    },
+
+    {
+      "version_id": "ver_006_a",
+      "track_id": "trk_006",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_006_b",
+      "track_id": "trk_006",
+      "display_label": "2022 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_006_c",
+      "track_id": "trk_006",
+      "display_label": "Wildflower Motel Roadhouse Remix",
+      "version_type": "remix",
+      "featured_artists": ["June Marlow"]
+    },
+
+    {
+      "version_id": "ver_007_a",
+      "track_id": "trk_007",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_007_b",
+      "track_id": "trk_007",
+      "display_label": "2025 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_007_c",
+      "track_id": "trk_007",
+      "display_label": "Crimson Frequency Midnight Remix",
+      "version_type": "remix",
+      "featured_artists": ["Vex Orion"]
+    },
+
+    {
+      "version_id": "ver_008_a",
+      "track_id": "trk_008",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_008_b",
+      "track_id": "trk_008",
+      "display_label": "Hollow Carousel Reimagined Remix",
+      "version_type": "remix",
+      "featured_artists": ["Soren Vale"]
+    },
+    {
+      "version_id": "ver_008_c",
+      "track_id": "trk_008",
+      "display_label": "Hollow Carousel Piano Cover",
+      "version_type": "cover",
+      "featured_artists": ["Ivy North"]
+    },
+
+    {
+      "version_id": "ver_009_a",
+      "track_id": "trk_009",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_009_b",
+      "track_id": "trk_009",
+      "display_label": "2023 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_009_c",
+      "track_id": "trk_009",
+      "display_label": "Ember on the Water Soul Remix",
+      "version_type": "remix",
+      "featured_artists": ["Juno Ray"]
+    },
+
+    {
+      "version_id": "ver_010_a",
+      "track_id": "trk_010",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_010_b",
+      "track_id": "trk_010",
+      "display_label": "2020 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_010_c",
+      "track_id": "trk_010",
+      "display_label": "Blue Orchard Folk Cover",
+      "version_type": "cover",
+      "featured_artists": ["Mara Bell"]
+    },
+
+    {
+      "version_id": "ver_011_a",
+      "track_id": "trk_011",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_011_b",
+      "track_id": "trk_011",
+      "display_label": "2025 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_011_c",
+      "track_id": "trk_011",
+      "display_label": "Glassbird Avenue Neon Remix",
+      "version_type": "remix",
+      "featured_artists": ["Kiro Lane"]
+    },
+
+    {
+      "version_id": "ver_012_a",
+      "track_id": "trk_012",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_012_b",
+      "track_id": "trk_012",
+      "display_label": "2022 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_012_c",
+      "track_id": "trk_012",
+      "display_label": "Northbound Echo Road Remix",
+      "version_type": "remix",
+      "featured_artists": ["Arlo Finch"]
+    },
+
+    {
+      "version_id": "ver_013_a",
+      "track_id": "trk_013",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_013_b",
+      "track_id": "trk_013",
+      "display_label": "2024 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_013_c",
+      "track_id": "trk_013",
+      "display_label": "Marble Moonlight Dream Remix",
+      "version_type": "remix",
+      "featured_artists": ["Aster Blue"]
+    },
+
+    {
+      "version_id": "ver_014_a",
+      "track_id": "trk_014",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_014_b",
+      "track_id": "trk_014",
+      "display_label": "2020 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_014_c",
+      "track_id": "trk_014",
+      "display_label": "Rust and Reverie Blues Cover",
+      "version_type": "cover",
+      "featured_artists": ["Cal Vey"]
+    },
+
+    {
+      "version_id": "ver_015_a",
+      "track_id": "trk_015",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_015_b",
+      "track_id": "trk_015",
+      "display_label": "2023 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_015_c",
+      "track_id": "trk_015",
+      "display_label": "Lunar Paper Trails Future Remix",
+      "version_type": "remix",
+      "featured_artists": ["Eko Maren"]
+    },
+
+    {
+      "version_id": "ver_016_a",
+      "track_id": "trk_016",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_016_b",
+      "track_id": "trk_016",
+      "display_label": "2024 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_016_c",
+      "track_id": "trk_016",
+      "display_label": "Amber Afterglow Late Night Remix",
+      "version_type": "remix",
+      "featured_artists": ["Sol Reed"]
+    },
+
+    {
+      "version_id": "ver_017_a",
+      "track_id": "trk_017",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_017_b",
+      "track_id": "trk_017",
+      "display_label": "2021 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_017_c",
+      "track_id": "trk_017",
+      "display_label": "Tidal Letters Acoustic Cover",
+      "version_type": "cover",
+      "featured_artists": ["Rin Ellis"]
+    },
+
+    {
+      "version_id": "ver_018_a",
+      "track_id": "trk_018",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_018_b",
+      "track_id": "trk_018",
+      "display_label": "2025 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_018_c",
+      "track_id": "trk_018",
+      "display_label": "Electric Meadow Festival Remix",
+      "version_type": "remix",
+      "featured_artists": ["Nova Kade"]
+    },
+
+    {
+      "version_id": "ver_019_a",
+      "track_id": "trk_019",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_019_b",
+      "track_id": "trk_019",
+      "display_label": "2022 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_019_c",
+      "track_id": "trk_019",
+      "display_label": "Quiet Thunder Alternative Cover",
+      "version_type": "cover",
+      "featured_artists": ["Tess Arden"]
+    },
+
+    {
+      "version_id": "ver_020_a",
+      "track_id": "trk_020",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_020_b",
+      "track_id": "trk_020",
+      "display_label": "2025 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_020_c",
+      "track_id": "trk_020",
+      "display_label": "Saffron Skyline Sunset Remix",
+      "version_type": "remix",
+      "featured_artists": ["Mika Sol"]
+    }
+  ]
+}
