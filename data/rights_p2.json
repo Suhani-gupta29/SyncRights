@@ -1,0 +1,2044 @@
+[
+  {
+    "version_id": "ver_021_a",
+    "track_id": "trk_021",
+    "master_rights_holder": "Copperlight Records",
+    "publishing_rights_holder": "Everline Publishing",
+    "composer": [
+      "Kaelen Roe"
+    ],
+    "lyricist": [
+      "Kaelen Roe"
+    ],
+    "singer": [
+      "Kaelen Roe"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "music video",
+      "podcast intro",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-02-12",
+    "license_end_date": "2023-01-19",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_021_movieA_2020",
+      "trk_021_gameE_2024"
+    ]
+  },
+  {
+    "version_id": "ver_021_b",
+    "track_id": "trk_021",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Everline Publishing",
+    "composer": [
+      "Kaelen Roe"
+    ],
+    "lyricist": [
+      "Kaelen Roe"
+    ],
+    "singer": [
+      "Kaelen Roe"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "social media campaign",
+      "trailer"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-10-05",
+    "license_end_date": "2025-09-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_021_gameE_2025"
+    ]
+  },
+  {
+    "version_id": "ver_021_c",
+    "track_id": "trk_021",
+    "master_rights_holder": "Northgate Music Group",
+    "publishing_rights_holder": "Cobalt Music Rights",
+    "composer": [
+      "Kaelen Roe"
+    ],
+    "lyricist": [
+      "Kaelen Roe",
+      "Ren Osei"
+    ],
+    "singer": [
+      "Kaelen Roe",
+      "DJ Synth"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "revoked",
+    "license_start_date": "2018-12-10",
+    "license_end_date": "2026-04-14",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_021_trailerD_2023",
+      "trk_021_webseriesB_2020"
+    ]
+  },
+  {
+    "version_id": "ver_022_a",
+    "track_id": "trk_022",
+    "master_rights_holder": "Northgate Music Group",
+    "publishing_rights_holder": "Meridian Publishing",
+    "composer": [
+      "Lumina"
+    ],
+    "lyricist": [
+      "Lumina"
+    ],
+    "singer": [
+      "Lumina"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2019-12-18",
+    "license_end_date": "2027-07-26",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_022_b",
+    "track_id": "trk_022",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Anthem Rights Group",
+    "composer": [
+      "Lumina"
+    ],
+    "lyricist": [
+      "Lumina"
+    ],
+    "singer": [
+      "Lumina"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "music video",
+      "video game"
+    ],
+    "license_status": "active",
+    "license_start_date": "2019-05-03",
+    "license_end_date": "2027-09-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_022_c",
+    "track_id": "trk_022",
+    "master_rights_holder": "Aurelia Records",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "Lumina"
+    ],
+    "lyricist": [
+      "Lumina",
+      "Leela Kaur"
+    ],
+    "singer": [
+      "Lumina",
+      "Elara Tune"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "social media campaign",
+      "video game"
+    ],
+    "license_status": "active",
+    "license_start_date": "2019-05-04",
+    "license_end_date": "2024-06-16",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_022_gameE_2026"
+    ]
+  },
+  {
+    "version_id": "ver_023_a",
+    "track_id": "trk_023",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Cobalt Music Rights",
+    "composer": [
+      "The Synth Nomads"
+    ],
+    "lyricist": [
+      "The Synth Nomads",
+      "Farhan Ali"
+    ],
+    "singer": [
+      "The Synth Nomads"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2021-01-16",
+    "license_end_date": "2029-01-12",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_023_movieA_2024",
+      "trk_023_podcastF_2026"
+    ]
+  },
+  {
+    "version_id": "ver_023_b",
+    "track_id": "trk_023",
+    "master_rights_holder": "Vantage Sound Label",
+    "publishing_rights_holder": "Rooted Melody Publishing",
+    "composer": [
+      "The Synth Nomads"
+    ],
+    "lyricist": [
+      "The Synth Nomads"
+    ],
+    "singer": [
+      "The Synth Nomads",
+      "Beat Master FX"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2021-05-26",
+    "license_end_date": "2029-03-20",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_023_c",
+    "track_id": "trk_023",
+    "master_rights_holder": "Riverstone Media",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "The Synth Nomads"
+    ],
+    "lyricist": [
+      "The Synth Nomads"
+    ],
+    "singer": [
+      "The Synth Nomads",
+      "Jonah Keys"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "movie",
+      "social media campaign",
+      "video game"
+    ],
+    "license_status": "active",
+    "license_start_date": "2021-06-08",
+    "license_end_date": "2029-10-03",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_023_movieA_2026",
+      "trk_023_webseriesB_2024"
+    ]
+  },
+  {
+    "version_id": "ver_024_a",
+    "track_id": "trk_024",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Meridian Publishing",
+    "composer": [
+      "Jaxson Reed"
+    ],
+    "lyricist": [
+      "Jaxson Reed"
+    ],
+    "singer": [
+      "Jaxson Reed"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "podcast intro",
+      "social media campaign",
+      "video game"
+    ],
+    "license_status": "active",
+    "license_start_date": "2015-03-25",
+    "license_end_date": "2021-03-22",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_024_podcastF_2025",
+      "trk_024_trailerD_2023",
+      "trk_024_movieA_2024"
+    ]
+  },
+  {
+    "version_id": "ver_024_b",
+    "track_id": "trk_024",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "Jaxson Reed"
+    ],
+    "lyricist": [
+      "Jaxson Reed"
+    ],
+    "singer": [
+      "Jaxson Reed"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "music video",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2015-10-26",
+    "license_end_date": "2021-11-25",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_024_webseriesB_2024"
+    ]
+  },
+  {
+    "version_id": "ver_024_c",
+    "track_id": "trk_024",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Anthem Rights Group",
+    "composer": [
+      "Jaxson Reed"
+    ],
+    "lyricist": [
+      "Jaxson Reed"
+    ],
+    "singer": [
+      "Jaxson Reed"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "expired",
+    "license_start_date": "2015-07-15",
+    "license_end_date": "2021-03-02",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_025_a",
+    "track_id": "trk_025",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Everline Publishing",
+    "composer": [
+      "Cora Vance"
+    ],
+    "lyricist": [
+      "Cora Vance"
+    ],
+    "singer": [
+      "Cora Vance"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2020-10-05",
+    "license_end_date": "2026-12-13",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_025_trailerD_2021",
+      "trk_025_gameE_2019"
+    ]
+  },
+  {
+    "version_id": "ver_025_b",
+    "track_id": "trk_025",
+    "master_rights_holder": "Aurelia Records",
+    "publishing_rights_holder": "Cobalt Music Rights",
+    "composer": [
+      "Cora Vance"
+    ],
+    "lyricist": [
+      "Cora Vance"
+    ],
+    "singer": [
+      "Cora Vance"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "expired",
+    "license_start_date": "2020-11-16",
+    "license_end_date": "2027-02-17",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_025_movieA_2023",
+      "trk_025_trailerD_2020",
+      "trk_025_webseriesB_2024"
+    ]
+  },
+  {
+    "version_id": "ver_025_c",
+    "track_id": "trk_025",
+    "master_rights_holder": "Copperlight Records",
+    "publishing_rights_holder": "Meridian Publishing",
+    "composer": [
+      "Cora Vance"
+    ],
+    "lyricist": [
+      "Cora Vance"
+    ],
+    "singer": [
+      "Cora Vance",
+      "Chill Panda"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "music video",
+      "podcast intro"
+    ],
+    "license_status": "active",
+    "license_start_date": "2020-11-27",
+    "license_end_date": "2025-02-24",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_026_a",
+    "track_id": "trk_026",
+    "master_rights_holder": "Bluewave Music",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "Silas Vance"
+    ],
+    "lyricist": [
+      "Silas Vance"
+    ],
+    "singer": [
+      "Silas Vance"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "trailer"
+    ],
+    "license_status": "active",
+    "license_start_date": "2014-05-06",
+    "license_end_date": "2020-08-19",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_026_gameE_2025"
+    ]
+  },
+  {
+    "version_id": "ver_026_b",
+    "track_id": "trk_026",
+    "master_rights_holder": "Aurelia Records",
+    "publishing_rights_holder": "Anthem Rights Group",
+    "composer": [
+      "Silas Vance"
+    ],
+    "lyricist": [
+      "Silas Vance"
+    ],
+    "singer": [
+      "Silas Vance"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2014-07-22",
+    "license_end_date": "2022-09-07",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_026_movieA_2023",
+      "trk_026_adC_2026"
+    ]
+  },
+  {
+    "version_id": "ver_026_c",
+    "track_id": "trk_026",
+    "master_rights_holder": "Vantage Sound Label",
+    "publishing_rights_holder": "Anthem Rights Group",
+    "composer": [
+      "Silas Vance"
+    ],
+    "lyricist": [
+      "Silas Vance",
+      "Farhan Ali"
+    ],
+    "singer": [
+      "Silas Vance",
+      "The Steel Strings"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2014-09-10",
+    "license_end_date": "2019-01-11",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_026_trailerD_2021",
+      "trk_026_gameE_2022"
+    ]
+  },
+  {
+    "version_id": "ver_027_a",
+    "track_id": "trk_027",
+    "master_rights_holder": "Copperlight Records",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "Aria Moon"
+    ],
+    "lyricist": [
+      "Aria Moon"
+    ],
+    "singer": [
+      "Aria Moon"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "expired",
+    "license_start_date": "2022-11-12",
+    "license_end_date": "2028-04-14",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_027_b",
+    "track_id": "trk_027",
+    "master_rights_holder": "Skyline Records",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "Aria Moon"
+    ],
+    "lyricist": [
+      "Aria Moon"
+    ],
+    "singer": [
+      "Aria Moon",
+      "DJ Horizon"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "active",
+    "license_start_date": "2022-01-05",
+    "license_end_date": "2029-08-17",
+    "commercial_use_allowed": false,
+    "promotional_use_only": true,
+    "previous_usages": [
+      "trk_027_webseriesB_2021",
+      "trk_027_trailerD_2026"
+    ]
+  },
+  {
+    "version_id": "ver_027_c",
+    "track_id": "trk_027",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Highline Music Publishing",
+    "composer": [
+      "Aria Moon"
+    ],
+    "lyricist": [
+      "Aria Moon"
+    ],
+    "singer": [
+      "Aria Moon"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "music video",
+      "trailer"
+    ],
+    "license_status": "active",
+    "license_start_date": "2022-04-25",
+    "license_end_date": "2028-12-10",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_028_a",
+    "track_id": "trk_028",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Meridian Publishing",
+    "composer": [
+      "Echo Bandits"
+    ],
+    "lyricist": [
+      "Echo Bandits"
+    ],
+    "singer": [
+      "Echo Bandits"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "social media campaign",
+      "trailer"
+    ],
+    "license_status": "active",
+    "license_start_date": "2017-07-14",
+    "license_end_date": "2025-03-14",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_028_adC_2026",
+      "trk_028_webseriesB_2022"
+    ]
+  },
+  {
+    "version_id": "ver_028_b",
+    "track_id": "trk_028",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "Echo Bandits"
+    ],
+    "lyricist": [
+      "Echo Bandits"
+    ],
+    "singer": [
+      "Echo Bandits"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "expired",
+    "license_start_date": "2017-07-02",
+    "license_end_date": "2024-07-09",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_028_trailerD_2023",
+      "trk_028_podcastF_2026",
+      "trk_028_movieA_2020"
+    ]
+  },
+  {
+    "version_id": "ver_028_c",
+    "track_id": "trk_028",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Rooted Melody Publishing",
+    "composer": [
+      "Echo Bandits"
+    ],
+    "lyricist": [
+      "Echo Bandits"
+    ],
+    "singer": [
+      "Echo Bandits",
+      "Rogue Bass"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "podcast intro",
+      "social media campaign",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2017-10-03",
+    "license_end_date": "2024-09-10",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_028_adC_2023",
+      "trk_028_podcastF_2025"
+    ]
+  },
+  {
+    "version_id": "ver_029_a",
+    "track_id": "trk_029",
+    "master_rights_holder": "Aurelia Records",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "Maya Lin"
+    ],
+    "lyricist": [
+      "Maya Lin"
+    ],
+    "singer": [
+      "Maya Lin"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "podcast intro"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-03-05",
+    "license_end_date": "2022-02-12",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_029_gameE_2019",
+      "trk_029_campaignG_2020"
+    ]
+  },
+  {
+    "version_id": "ver_029_b",
+    "track_id": "trk_029",
+    "master_rights_holder": "Riverstone Media",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "Maya Lin"
+    ],
+    "lyricist": [
+      "Maya Lin"
+    ],
+    "singer": [
+      "Maya Lin"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "music video",
+      "podcast intro",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-04-16",
+    "license_end_date": "2024-11-24",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_029_c",
+    "track_id": "trk_029",
+    "master_rights_holder": "Aurelia Records",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "Maya Lin"
+    ],
+    "lyricist": [
+      "Maya Lin"
+    ],
+    "singer": [
+      "Maya Lin",
+      "Neon Dreamers"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "music video",
+      "social media campaign"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-02-24",
+    "license_end_date": "2022-09-07",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_029_trailerD_2021",
+      "trk_029_webseriesB_2023"
+    ]
+  },
+  {
+    "version_id": "ver_030_a",
+    "track_id": "trk_030",
+    "master_rights_holder": "Bluewave Music",
+    "publishing_rights_holder": "Highline Music Publishing",
+    "composer": [
+      "DJ Vertex"
+    ],
+    "lyricist": [
+      "DJ Vertex"
+    ],
+    "singer": [
+      "DJ Vertex"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "podcast intro",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2023-04-08",
+    "license_end_date": "2028-09-19",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_030_podcastF_2022",
+      "trk_030_movieA_2024"
+    ]
+  },
+  {
+    "version_id": "ver_030_b",
+    "track_id": "trk_030",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Highline Music Publishing",
+    "composer": [
+      "DJ Vertex"
+    ],
+    "lyricist": [
+      "DJ Vertex"
+    ],
+    "singer": [
+      "DJ Vertex"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "trailer",
+      "video game"
+    ],
+    "license_status": "active",
+    "license_start_date": "2023-01-13",
+    "license_end_date": "2031-09-12",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_030_gameE_2024",
+      "trk_030_podcastF_2023"
+    ]
+  },
+  {
+    "version_id": "ver_030_c",
+    "track_id": "trk_030",
+    "master_rights_holder": "Copperlight Records",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "DJ Vertex"
+    ],
+    "lyricist": [
+      "DJ Vertex"
+    ],
+    "singer": [
+      "DJ Vertex",
+      "MC Flare"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2023-03-09",
+    "license_end_date": "2031-08-20",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_031_a",
+    "track_id": "trk_031",
+    "master_rights_holder": "Skyline Records",
+    "publishing_rights_holder": "Anthem Rights Group",
+    "composer": [
+      "Elias Thorne"
+    ],
+    "lyricist": [
+      "Elias Thorne",
+      "Aditi Bose"
+    ],
+    "singer": [
+      "Elias Thorne"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "active",
+    "license_start_date": "2018-10-28",
+    "license_end_date": "2026-07-18",
+    "commercial_use_allowed": false,
+    "promotional_use_only": true,
+    "previous_usages": [
+      "trk_031_podcastF_2026"
+    ]
+  },
+  {
+    "version_id": "ver_031_b",
+    "track_id": "trk_031",
+    "master_rights_holder": "Aurelia Records",
+    "publishing_rights_holder": "Everline Publishing",
+    "composer": [
+      "Elias Thorne"
+    ],
+    "lyricist": [
+      "Elias Thorne",
+      "Omar Siddiqui"
+    ],
+    "singer": [
+      "Elias Thorne"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "podcast intro",
+      "social media campaign",
+      "video game"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-04-10",
+    "license_end_date": "2025-11-06",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_031_campaignG_2019"
+    ]
+  },
+  {
+    "version_id": "ver_031_c",
+    "track_id": "trk_031",
+    "master_rights_holder": "Copperlight Records",
+    "publishing_rights_holder": "Highline Music Publishing",
+    "composer": [
+      "Elias Thorne"
+    ],
+    "lyricist": [
+      "Elias Thorne",
+      "Leela Kaur"
+    ],
+    "singer": [
+      "Elias Thorne",
+      "Vapor Trails"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "active",
+    "license_start_date": "2018-05-10",
+    "license_end_date": "2024-07-23",
+    "commercial_use_allowed": false,
+    "promotional_use_only": true,
+    "previous_usages": [
+      "trk_031_adC_2025",
+      "trk_031_podcastF_2020",
+      "trk_031_trailerD_2025"
+    ]
+  },
+  {
+    "version_id": "ver_032_a",
+    "track_id": "trk_032",
+    "master_rights_holder": "Copperlight Records",
+    "publishing_rights_holder": "Meridian Publishing",
+    "composer": [
+      "Cybernetic Flow"
+    ],
+    "lyricist": [
+      "Cybernetic Flow"
+    ],
+    "singer": [
+      "Cybernetic Flow"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "social media campaign",
+      "trailer"
+    ],
+    "license_status": "active",
+    "license_start_date": "2020-03-12",
+    "license_end_date": "2025-08-23",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_032_webseriesB_2020",
+      "trk_032_movieA_2023"
+    ]
+  },
+  {
+    "version_id": "ver_032_b",
+    "track_id": "trk_032",
+    "master_rights_holder": "Aurelia Records",
+    "publishing_rights_holder": "Rooted Melody Publishing",
+    "composer": [
+      "Cybernetic Flow"
+    ],
+    "lyricist": [
+      "Cybernetic Flow",
+      "Omar Siddiqui"
+    ],
+    "singer": [
+      "Cybernetic Flow"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "expired",
+    "license_start_date": "2020-08-21",
+    "license_end_date": "2028-12-04",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_032_adC_2026",
+      "trk_032_gameE_2025"
+    ]
+  },
+  {
+    "version_id": "ver_032_c",
+    "track_id": "trk_032",
+    "master_rights_holder": "Copperlight Records",
+    "publishing_rights_holder": "Highline Music Publishing",
+    "composer": [
+      "Cybernetic Flow"
+    ],
+    "lyricist": [
+      "Cybernetic Flow"
+    ],
+    "singer": [
+      "Cybernetic Flow",
+      "Silvia Strings"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "trailer",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2020-09-07",
+    "license_end_date": "2027-02-09",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_032_trailerD_2021",
+      "trk_032_campaignG_2020"
+    ]
+  },
+  {
+    "version_id": "ver_033_a",
+    "track_id": "trk_033",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Highline Music Publishing",
+    "composer": [
+      "Lena Rivers"
+    ],
+    "lyricist": [
+      "Lena Rivers"
+    ],
+    "singer": [
+      "Lena Rivers"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "podcast intro",
+      "social media campaign",
+      "trailer",
+      "video game"
+    ],
+    "license_status": "active",
+    "license_start_date": "2019-07-11",
+    "license_end_date": "2027-11-22",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_033_b",
+    "track_id": "trk_033",
+    "master_rights_holder": "Vantage Sound Label",
+    "publishing_rights_holder": "Cobalt Music Rights",
+    "composer": [
+      "Lena Rivers"
+    ],
+    "lyricist": [
+      "Lena Rivers",
+      "Ren Osei"
+    ],
+    "singer": [
+      "Lena Rivers",
+      "DJ Sol"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "revoked",
+    "license_start_date": "2019-01-07",
+    "license_end_date": "2027-03-24",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_033_c",
+    "track_id": "trk_033",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "Lena Rivers"
+    ],
+    "lyricist": [
+      "Lena Rivers"
+    ],
+    "singer": [
+      "Lena Rivers",
+      "The Blue Notes"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2019-04-11",
+    "license_end_date": "2026-01-12",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_033_trailerD_2024",
+      "trk_033_gameE_2026"
+    ]
+  },
+  {
+    "version_id": "ver_034_a",
+    "track_id": "trk_034",
+    "master_rights_holder": "Orbit Sound Label",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "The Time Travelers"
+    ],
+    "lyricist": [
+      "The Time Travelers"
+    ],
+    "singer": [
+      "The Time Travelers"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2015-07-17",
+    "license_end_date": "2023-04-04",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_034_adC_2022"
+    ]
+  },
+  {
+    "version_id": "ver_034_b",
+    "track_id": "trk_034",
+    "master_rights_holder": "Vantage Sound Label",
+    "publishing_rights_holder": "Rooted Melody Publishing",
+    "composer": [
+      "The Time Travelers"
+    ],
+    "lyricist": [
+      "The Time Travelers"
+    ],
+    "singer": [
+      "The Time Travelers"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "trailer"
+    ],
+    "license_status": "active",
+    "license_start_date": "2015-04-01",
+    "license_end_date": "2020-12-22",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_034_campaignG_2019",
+      "trk_034_movieA_2025"
+    ]
+  },
+  {
+    "version_id": "ver_034_c",
+    "track_id": "trk_034",
+    "master_rights_holder": "Vantage Sound Label",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "The Time Travelers"
+    ],
+    "lyricist": [
+      "The Time Travelers",
+      "Farhan Ali"
+    ],
+    "singer": [
+      "The Time Travelers"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "active",
+    "license_start_date": "2015-04-13",
+    "license_end_date": "2023-06-25",
+    "commercial_use_allowed": false,
+    "promotional_use_only": true,
+    "previous_usages": [
+      "trk_034_podcastF_2022",
+      "trk_034_webseriesB_2019",
+      "trk_034_adC_2019"
+    ]
+  },
+  {
+    "version_id": "ver_035_a",
+    "track_id": "trk_035",
+    "master_rights_holder": "Skyline Records",
+    "publishing_rights_holder": "Highline Music Publishing",
+    "composer": [
+      "Zara Knight"
+    ],
+    "lyricist": [
+      "Zara Knight"
+    ],
+    "singer": [
+      "Zara Knight"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "music video",
+      "podcast intro",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2021-06-07",
+    "license_end_date": "2029-06-05",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_035_b",
+    "track_id": "trk_035",
+    "master_rights_holder": "Northgate Music Group",
+    "publishing_rights_holder": "Highline Music Publishing",
+    "composer": [
+      "Zara Knight"
+    ],
+    "lyricist": [
+      "Zara Knight"
+    ],
+    "singer": [
+      "Zara Knight"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "podcast intro",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2021-07-17",
+    "license_end_date": "2028-07-02",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_035_c",
+    "track_id": "trk_035",
+    "master_rights_holder": "Northgate Music Group",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "Zara Knight"
+    ],
+    "lyricist": [
+      "Zara Knight"
+    ],
+    "singer": [
+      "Zara Knight",
+      "Rainy Day Beatz"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2021-10-28",
+    "license_end_date": "2027-06-07",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_035_adC_2025",
+      "trk_035_podcastF_2020"
+    ]
+  },
+  {
+    "version_id": "ver_036_a",
+    "track_id": "trk_036",
+    "master_rights_holder": "Northgate Music Group",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "Volt Riders"
+    ],
+    "lyricist": [
+      "Volt Riders",
+      "Farhan Ali"
+    ],
+    "singer": [
+      "Volt Riders"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "revoked",
+    "license_start_date": "2022-01-14",
+    "license_end_date": "2030-05-04",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_036_podcastF_2019",
+      "trk_036_webseriesB_2019",
+      "trk_036_campaignG_2020"
+    ]
+  },
+  {
+    "version_id": "ver_036_b",
+    "track_id": "trk_036",
+    "master_rights_holder": "Aurelia Records",
+    "publishing_rights_holder": "Anthem Rights Group",
+    "composer": [
+      "Volt Riders"
+    ],
+    "lyricist": [
+      "Volt Riders"
+    ],
+    "singer": [
+      "Volt Riders",
+      "DJ Enigma"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "social media campaign",
+      "video game",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2022-09-07",
+    "license_end_date": "2027-05-04",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_036_trailerD_2025",
+      "trk_036_campaignG_2025",
+      "trk_036_movieA_2020"
+    ]
+  },
+  {
+    "version_id": "ver_036_c",
+    "track_id": "trk_036",
+    "master_rights_holder": "Northgate Music Group",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "Volt Riders"
+    ],
+    "lyricist": [
+      "Volt Riders"
+    ],
+    "singer": [
+      "Volt Riders",
+      "Clara Keys"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "music video",
+      "trailer",
+      "video game"
+    ],
+    "license_status": "active",
+    "license_start_date": "2022-03-28",
+    "license_end_date": "2027-04-14",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_036_adC_2024"
+    ]
+  },
+  {
+    "version_id": "ver_037_a",
+    "track_id": "trk_037",
+    "master_rights_holder": "Riverstone Media",
+    "publishing_rights_holder": "Everline Publishing",
+    "composer": [
+      "Noah Wood"
+    ],
+    "lyricist": [
+      "Noah Wood"
+    ],
+    "singer": [
+      "Noah Wood"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "music video",
+      "social media campaign",
+      "video game"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-04-13",
+    "license_end_date": "2024-11-21",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_037_adC_2022",
+      "trk_037_campaignG_2019"
+    ]
+  },
+  {
+    "version_id": "ver_037_b",
+    "track_id": "trk_037",
+    "master_rights_holder": "Copperlight Records",
+    "publishing_rights_holder": "Cascade Songs Co",
+    "composer": [
+      "Noah Wood"
+    ],
+    "lyricist": [
+      "Noah Wood"
+    ],
+    "singer": [
+      "Noah Wood"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2016-07-13",
+    "license_end_date": "2024-10-26",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_037_gameE_2024",
+      "trk_037_campaignG_2023",
+      "trk_037_trailerD_2026"
+    ]
+  },
+  {
+    "version_id": "ver_037_c",
+    "track_id": "trk_037",
+    "master_rights_holder": "Vantage Sound Label",
+    "publishing_rights_holder": "Rooted Melody Publishing",
+    "composer": [
+      "Noah Wood"
+    ],
+    "lyricist": [
+      "Noah Wood"
+    ],
+    "singer": [
+      "Noah Wood"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "revoked",
+    "license_start_date": "2016-07-04",
+    "license_end_date": "2023-12-10",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_037_gameE_2025"
+    ]
+  },
+  {
+    "version_id": "ver_038_a",
+    "track_id": "trk_038",
+    "master_rights_holder": "Riverstone Media",
+    "publishing_rights_holder": "Rooted Melody Publishing",
+    "composer": [
+      "City Lights Collective"
+    ],
+    "lyricist": [
+      "City Lights Collective",
+      "Leela Kaur"
+    ],
+    "singer": [
+      "City Lights Collective"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "advertisement",
+      "music video",
+      "podcast intro",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2023-06-17",
+    "license_end_date": "2031-02-27",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_038_movieA_2020",
+      "trk_038_trailerD_2022",
+      "trk_038_webseriesB_2020"
+    ]
+  },
+  {
+    "version_id": "ver_038_b",
+    "track_id": "trk_038",
+    "master_rights_holder": "Northgate Music Group",
+    "publishing_rights_holder": "Rooted Melody Publishing",
+    "composer": [
+      "City Lights Collective"
+    ],
+    "lyricist": [
+      "City Lights Collective"
+    ],
+    "singer": [
+      "City Lights Collective",
+      "Sub City"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "trailer",
+      "video game",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2023-02-15",
+    "license_end_date": "2028-09-19",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_038_adC_2021",
+      "trk_038_campaignG_2020",
+      "trk_038_movieA_2019"
+    ]
+  },
+  {
+    "version_id": "ver_038_c",
+    "track_id": "trk_038",
+    "master_rights_holder": "Northgate Music Group",
+    "publishing_rights_holder": "Meridian Publishing",
+    "composer": [
+      "City Lights Collective"
+    ],
+    "lyricist": [
+      "City Lights Collective"
+    ],
+    "singer": [
+      "City Lights Collective",
+      "Mia Gold"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "music video",
+      "social media campaign",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2023-07-19",
+    "license_end_date": "2029-10-27",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_038_podcastF_2024"
+    ]
+  },
+  {
+    "version_id": "ver_039_a",
+    "track_id": "trk_039",
+    "master_rights_holder": "Riverstone Media",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "Astro Beats"
+    ],
+    "lyricist": [
+      "Astro Beats"
+    ],
+    "singer": [
+      "Astro Beats"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "active",
+    "license_start_date": "2017-06-23",
+    "license_end_date": "2022-02-10",
+    "commercial_use_allowed": false,
+    "promotional_use_only": true,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_039_b",
+    "track_id": "trk_039",
+    "master_rights_holder": "Bluewave Music",
+    "publishing_rights_holder": "Everline Publishing",
+    "composer": [
+      "Astro Beats"
+    ],
+    "lyricist": [
+      "Astro Beats"
+    ],
+    "singer": [
+      "Astro Beats"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2017-04-01",
+    "license_end_date": "2023-05-22",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_039_trailerD_2026",
+      "trk_039_adC_2026"
+    ]
+  },
+  {
+    "version_id": "ver_039_c",
+    "track_id": "trk_039",
+    "master_rights_holder": "Riverstone Media",
+    "publishing_rights_holder": "Cobalt Music Rights",
+    "composer": [
+      "Astro Beats"
+    ],
+    "lyricist": [
+      "Astro Beats"
+    ],
+    "singer": [
+      "Astro Beats",
+      "Retro Future"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "expired",
+    "license_start_date": "2017-08-10",
+    "license_end_date": "2024-12-06",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_039_webseriesB_2023",
+      "trk_039_podcastF_2022"
+    ]
+  },
+  {
+    "version_id": "ver_040_a",
+    "track_id": "trk_040",
+    "master_rights_holder": "Northgate Music Group",
+    "publishing_rights_holder": "Rooted Melody Publishing",
+    "composer": [
+      "Kira Frost"
+    ],
+    "lyricist": [
+      "Kira Frost",
+      "Ren Osei"
+    ],
+    "singer": [
+      "Kira Frost"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "podcast intro",
+      "trailer",
+      "web series"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-06-16",
+    "license_end_date": "2026-01-26",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_040_adC_2024",
+      "trk_040_webseriesB_2023"
+    ]
+  },
+  {
+    "version_id": "ver_040_b",
+    "track_id": "trk_040",
+    "master_rights_holder": "Aurelia Records",
+    "publishing_rights_holder": "Solstice Publishing House",
+    "composer": [
+      "Kira Frost"
+    ],
+    "lyricist": [
+      "Kira Frost"
+    ],
+    "singer": [
+      "Kira Frost"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "music video",
+      "trailer"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-02-21",
+    "license_end_date": "2023-03-16",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": [
+      "trk_040_adC_2021"
+    ]
+  },
+  {
+    "version_id": "ver_040_c",
+    "track_id": "trk_040",
+    "master_rights_holder": "Vantage Sound Label",
+    "publishing_rights_holder": "Cobalt Music Rights",
+    "composer": [
+      "Kira Frost"
+    ],
+    "lyricist": [
+      "Kira Frost",
+      "Leela Kaur"
+    ],
+    "singer": [
+      "Kira Frost",
+      "The City Symphony"
+    ],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [],
+    "license_status": "pending renewal",
+    "license_start_date": "2018-05-09",
+    "license_end_date": "2026-03-22",
+    "commercial_use_allowed": false,
+    "promotional_use_only": false,
+    "previous_usages": []
+  }
+]
