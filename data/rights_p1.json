@@ -1,0 +1,1682 @@
+[
+  {
+    "version_id": "ver_001_a",
+    "track_id": "trk_001",
+    "master_rights_holder": "Nora Venn Music",
+    "publishing_rights_holder": "Nora Venn Publishing",
+    "composer": ["Nora Venn"],
+    "lyricist": ["Nora Venn"],
+    "singer": ["Nora Venn"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-01-01",
+    "license_end_date": "2026-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_001_b",
+    "track_id": "trk_001",
+    "master_rights_holder": "Nora Venn Music",
+    "publishing_rights_holder": "Nora Venn Publishing",
+    "composer": ["Nora Venn"],
+    "lyricist": ["Nora Venn"],
+    "singer": ["Nora Venn"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-01-01",
+    "license_end_date": "2026-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_001_c",
+    "track_id": "trk_001",
+    "master_rights_holder": "Nora Venn Music",
+    "publishing_rights_holder": "Nora Venn Publishing",
+    "composer": ["Nora Venn"],
+    "lyricist": ["Nora Venn"],
+    "singer": ["Nora Venn", "DJ Solace"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-01-01",
+    "license_end_date": "2026-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_002_a",
+    "track_id": "trk_002",
+    "master_rights_holder": "Callum Wren Music",
+    "publishing_rights_holder": "Callum Wren Publishing",
+    "composer": ["Callum Wren"],
+    "lyricist": ["Callum Wren"],
+    "singer": ["Callum Wren"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-01-01",
+    "license_end_date": "2028-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_002_b",
+    "track_id": "trk_002",
+    "master_rights_holder": "Callum Wren Music",
+    "publishing_rights_holder": "Callum Wren Publishing",
+    "composer": ["Callum Wren"],
+    "lyricist": ["Callum Wren"],
+    "singer": ["Callum Wren"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-01-01",
+    "license_end_date": "2028-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_002_c",
+    "track_id": "trk_002",
+    "master_rights_holder": "Callum Wren Music",
+    "publishing_rights_holder": "Callum Wren Publishing",
+    "composer": ["Callum Wren"],
+    "lyricist": ["Callum Wren"],
+    "singer": ["Callum Wren", "Elin Rowe"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-01-01",
+    "license_end_date": "2028-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_003_a",
+    "track_id": "trk_003",
+    "master_rights_holder": "Mira Solen Music",
+    "publishing_rights_holder": "Mira Solen Publishing",
+    "composer": ["Mira Solen"],
+    "lyricist": ["Mira Solen"],
+    "singer": ["Mira Solen"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2019-01-01",
+    "license_end_date": "2029-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_003_b",
+    "track_id": "trk_003",
+    "master_rights_holder": "Mira Solen Music",
+    "publishing_rights_holder": "Mira Solen Publishing",
+    "composer": ["Mira Solen"],
+    "lyricist": ["Mira Solen"],
+    "singer": ["Mira Solen"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2019-01-01",
+    "license_end_date": "2029-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_003_c",
+    "track_id": "trk_003",
+    "master_rights_holder": "Mira Solen Music",
+    "publishing_rights_holder": "Mira Solen Publishing",
+    "composer": ["Mira Solen"],
+    "lyricist": ["Mira Solen"],
+    "singer": ["Mira Solen", "Kade Lux"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2019-01-01",
+    "license_end_date": "2029-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_004_a",
+    "track_id": "trk_004",
+    "master_rights_holder": "Julian Roe Music",
+    "publishing_rights_holder": "Julian Roe Publishing",
+    "composer": ["Julian Roe"],
+    "lyricist": ["Julian Roe"],
+    "singer": ["Julian Roe"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2014-01-01",
+    "license_end_date": "2024-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_004_b",
+    "track_id": "trk_004",
+    "master_rights_holder": "Julian Roe Music",
+    "publishing_rights_holder": "Julian Roe Publishing",
+    "composer": ["Julian Roe"],
+    "lyricist": ["Julian Roe"],
+    "singer": ["Julian Roe"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2014-01-01",
+    "license_end_date": "2024-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_004_c",
+    "track_id": "trk_004",
+    "master_rights_holder": "Julian Roe Music",
+    "publishing_rights_holder": "Julian Roe Publishing",
+    "composer": ["Julian Roe"],
+    "lyricist": ["Julian Roe"],
+    "singer": ["Julian Roe", "Milo Crest"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2014-01-01",
+    "license_end_date": "2024-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_005_a",
+    "track_id": "trk_005",
+    "master_rights_holder": "Lena Voss Music",
+    "publishing_rights_holder": "Lena Voss Publishing",
+    "composer": ["Lena Voss"],
+    "lyricist": ["Lena Voss"],
+    "singer": ["Lena Voss"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2020-01-01",
+    "license_end_date": "2030-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_005_b",
+    "track_id": "trk_005",
+    "master_rights_holder": "Lena Voss Music",
+    "publishing_rights_holder": "Lena Voss Publishing",
+    "composer": ["Lena Voss"],
+    "lyricist": ["Lena Voss"],
+    "singer": ["Lena Voss"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2020-01-01",
+    "license_end_date": "2030-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_005_c",
+    "track_id": "trk_005",
+    "master_rights_holder": "Lena Voss Music",
+    "publishing_rights_holder": "Lena Voss Publishing",
+    "composer": ["Lena Voss"],
+    "lyricist": ["Lena Voss"],
+    "singer": ["Lena Voss", "Nox Vale"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2020-01-01",
+    "license_end_date": "2030-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_006_a",
+    "track_id": "trk_006",
+    "master_rights_holder": "Ezra Bloom Music",
+    "publishing_rights_holder": "Ezra Bloom Publishing",
+    "composer": ["Ezra Bloom"],
+    "lyricist": ["Ezra Bloom"],
+    "singer": ["Ezra Bloom"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2017-01-01",
+    "license_end_date": "2027-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_006_b",
+    "track_id": "trk_006",
+    "master_rights_holder": "Ezra Bloom Music",
+    "publishing_rights_holder": "Ezra Bloom Publishing",
+    "composer": ["Ezra Bloom"],
+    "lyricist": ["Ezra Bloom"],
+    "singer": ["Ezra Bloom"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2017-01-01",
+    "license_end_date": "2027-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_006_c",
+    "track_id": "trk_006",
+    "master_rights_holder": "Ezra Bloom Music",
+    "publishing_rights_holder": "Ezra Bloom Publishing",
+    "composer": ["Ezra Bloom"],
+    "lyricist": ["Ezra Bloom"],
+    "singer": ["Ezra Bloom", "June Marlow"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2017-01-01",
+    "license_end_date": "2027-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_007_a",
+    "track_id": "trk_007",
+    "master_rights_holder": "Talia Merin Music",
+    "publishing_rights_holder": "Talia Merin Publishing",
+    "composer": ["Talia Merin"],
+    "lyricist": ["Talia Merin"],
+    "singer": ["Talia Merin"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2021-01-01",
+    "license_end_date": "2031-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_007_b",
+    "track_id": "trk_007",
+    "master_rights_holder": "Talia Merin Music",
+    "publishing_rights_holder": "Talia Merin Publishing",
+    "composer": ["Talia Merin"],
+    "lyricist": ["Talia Merin"],
+    "singer": ["Talia Merin"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2021-01-01",
+    "license_end_date": "2031-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_007_c",
+    "track_id": "trk_007",
+    "master_rights_holder": "Talia Merin Music",
+    "publishing_rights_holder": "Talia Merin Publishing",
+    "composer": ["Talia Merin"],
+    "lyricist": ["Talia Merin"],
+    "singer": ["Talia Merin", "Vex Orion"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2021-01-01",
+    "license_end_date": "2031-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_008_a",
+    "track_id": "trk_008",
+    "master_rights_holder": "Finn Calder Music",
+    "publishing_rights_holder": "Finn Calder Publishing",
+    "composer": ["Finn Calder"],
+    "lyricist": ["Finn Calder"],
+    "singer": ["Finn Calder"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2015-01-01",
+    "license_end_date": "2025-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_008_b",
+    "track_id": "trk_008",
+    "master_rights_holder": "Finn Calder Music",
+    "publishing_rights_holder": "Finn Calder Publishing",
+    "composer": ["Finn Calder"],
+    "lyricist": ["Finn Calder"],
+    "singer": ["Finn Calder", "Soren Vale"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2015-01-01",
+    "license_end_date": "2025-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_008_c",
+    "track_id": "trk_008",
+    "master_rights_holder": "Finn Calder Music",
+    "publishing_rights_holder": "Finn Calder Publishing",
+    "composer": ["Finn Calder"],
+    "lyricist": ["Finn Calder"],
+    "singer": ["Finn Calder", "Ivy North"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2015-01-01",
+    "license_end_date": "2025-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_009_a",
+    "track_id": "trk_009",
+    "master_rights_holder": "Sana Mirel Music",
+    "publishing_rights_holder": "Sana Mirel Publishing",
+    "composer": ["Sana Mirel"],
+    "lyricist": ["Sana Mirel"],
+    "singer": ["Sana Mirel"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-01-01",
+    "license_end_date": "2028-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_009_b",
+    "track_id": "trk_009",
+    "master_rights_holder": "Sana Mirel Music",
+    "publishing_rights_holder": "Sana Mirel Publishing",
+    "composer": ["Sana Mirel"],
+    "lyricist": ["Sana Mirel"],
+    "singer": ["Sana Mirel"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-01-01",
+    "license_end_date": "2028-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_009_c",
+    "track_id": "trk_009",
+    "master_rights_holder": "Sana Mirel Music",
+    "publishing_rights_holder": "Sana Mirel Publishing",
+    "composer": ["Sana Mirel"],
+    "lyricist": ["Sana Mirel"],
+    "singer": ["Sana Mirel", "Juno Ray"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2018-01-01",
+    "license_end_date": "2028-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_010_a",
+    "track_id": "trk_010",
+    "master_rights_holder": "Theo Arden Music",
+    "publishing_rights_holder": "Theo Arden Publishing",
+    "composer": ["Theo Arden"],
+    "lyricist": ["Theo Arden"],
+    "singer": ["Theo Arden"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2013-01-01",
+    "license_end_date": "2023-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_010_b",
+    "track_id": "trk_010",
+    "master_rights_holder": "Theo Arden Music",
+    "publishing_rights_holder": "Theo Arden Publishing",
+    "composer": ["Theo Arden"],
+    "lyricist": ["Theo Arden"],
+    "singer": ["Theo Arden"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2013-01-01",
+    "license_end_date": "2023-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_010_c",
+    "track_id": "trk_010",
+    "master_rights_holder": "Theo Arden Music",
+    "publishing_rights_holder": "Theo Arden Publishing",
+    "composer": ["Theo Arden"],
+    "lyricist": ["Theo Arden"],
+    "singer": ["Theo Arden", "Mara Bell"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2013-01-01",
+    "license_end_date": "2023-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_011_a",
+    "track_id": "trk_011",
+    "master_rights_holder": "Iris Keane Music",
+    "publishing_rights_holder": "Iris Keane Publishing",
+    "composer": ["Iris Keane"],
+    "lyricist": ["Iris Keane"],
+    "singer": ["Iris Keane"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2022-01-01",
+    "license_end_date": "2032-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_011_b",
+    "track_id": "trk_011",
+    "master_rights_holder": "Iris Keane Music",
+    "publishing_rights_holder": "Iris Keane Publishing",
+    "composer": ["Iris Keane"],
+    "lyricist": ["Iris Keane"],
+    "singer": ["Iris Keane"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2022-01-01",
+    "license_end_date": "2032-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_011_c",
+    "track_id": "trk_011",
+    "master_rights_holder": "Iris Keane Music",
+    "publishing_rights_holder": "Iris Keane Publishing",
+    "composer": ["Iris Keane"],
+    "lyricist": ["Iris Keane"],
+    "singer": ["Iris Keane", "Kiro Lane"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2022-01-01",
+    "license_end_date": "2032-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_012_a",
+    "track_id": "trk_012",
+    "master_rights_holder": "Ronan Hale Music",
+    "publishing_rights_holder": "Ronan Hale Publishing",
+    "composer": ["Ronan Hale"],
+    "lyricist": ["Ronan Hale"],
+    "singer": ["Ronan Hale"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-01-01",
+    "license_end_date": "2026-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_012_b",
+    "track_id": "trk_012",
+    "master_rights_holder": "Ronan Hale Music",
+    "publishing_rights_holder": "Ronan Hale Publishing",
+    "composer": ["Ronan Hale"],
+    "lyricist": ["Ronan Hale"],
+    "singer": ["Ronan Hale"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-01-01",
+    "license_end_date": "2026-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_012_c",
+    "track_id": "trk_012",
+    "master_rights_holder": "Ronan Hale Music",
+    "publishing_rights_holder": "Ronan Hale Publishing",
+    "composer": ["Ronan Hale"],
+    "lyricist": ["Ronan Hale"],
+    "singer": ["Ronan Hale", "Arlo Finch"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2016-01-01",
+    "license_end_date": "2026-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_013_a",
+    "track_id": "trk_013",
+    "master_rights_holder": "Ayla Ren Music",
+    "publishing_rights_holder": "Ayla Ren Publishing",
+    "composer": ["Ayla Ren"],
+    "lyricist": ["Ayla Ren"],
+    "singer": ["Ayla Ren"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2020-01-01",
+    "license_end_date": "2030-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_013_b",
+    "track_id": "trk_013",
+    "master_rights_holder": "Ayla Ren Music",
+    "publishing_rights_holder": "Ayla Ren Publishing",
+    "composer": ["Ayla Ren"],
+    "lyricist": ["Ayla Ren"],
+    "singer": ["Ayla Ren"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2020-01-01",
+    "license_end_date": "2030-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_013_c",
+    "track_id": "trk_013",
+    "master_rights_holder": "Ayla Ren Music",
+    "publishing_rights_holder": "Ayla Ren Publishing",
+    "composer": ["Ayla Ren"],
+    "lyricist": ["Ayla Ren"],
+    "singer": ["Ayla Ren", "Aster Blue"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2020-01-01",
+    "license_end_date": "2030-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_014_a",
+    "track_id": "trk_014",
+    "master_rights_holder": "Dorian Pike Music",
+    "publishing_rights_holder": "Dorian Pike Publishing",
+    "composer": ["Dorian Pike"],
+    "lyricist": ["Dorian Pike"],
+    "singer": ["Dorian Pike"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2012-01-01",
+    "license_end_date": "2022-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_014_b",
+    "track_id": "trk_014",
+    "master_rights_holder": "Dorian Pike Music",
+    "publishing_rights_holder": "Dorian Pike Publishing",
+    "composer": ["Dorian Pike"],
+    "lyricist": ["Dorian Pike"],
+    "singer": ["Dorian Pike"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2012-01-01",
+    "license_end_date": "2022-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_014_c",
+    "track_id": "trk_014",
+    "master_rights_holder": "Dorian Pike Music",
+    "publishing_rights_holder": "Dorian Pike Publishing",
+    "composer": ["Dorian Pike"],
+    "lyricist": ["Dorian Pike"],
+    "singer": ["Dorian Pike", "Cal Vey"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2012-01-01",
+    "license_end_date": "2022-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_015_a",
+    "track_id": "trk_015",
+    "master_rights_holder": "Mei Rowan Music",
+    "publishing_rights_holder": "Mei Rowan Publishing",
+    "composer": ["Mei Rowan"],
+    "lyricist": ["Mei Rowan"],
+    "singer": ["Mei Rowan"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2019-01-01",
+    "license_end_date": "2029-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_015_b",
+    "track_id": "trk_015",
+    "master_rights_holder": "Mei Rowan Music",
+    "publishing_rights_holder": "Mei Rowan Publishing",
+    "composer": ["Mei Rowan"],
+    "lyricist": ["Mei Rowan"],
+    "singer": ["Mei Rowan"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2019-01-01",
+    "license_end_date": "2029-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_015_c",
+    "track_id": "trk_015",
+    "master_rights_holder": "Mei Rowan Music",
+    "publishing_rights_holder": "Mei Rowan Publishing",
+    "composer": ["Mei Rowan"],
+    "lyricist": ["Mei Rowan"],
+    "singer": ["Mei Rowan", "Eko Maren"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2019-01-01",
+    "license_end_date": "2029-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_016_a",
+    "track_id": "trk_016",
+    "master_rights_holder": "Silas Grey Music",
+    "publishing_rights_holder": "Silas Grey Publishing",
+    "composer": ["Silas Grey"],
+    "lyricist": ["Silas Grey"],
+    "singer": ["Silas Grey"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2017-01-01",
+    "license_end_date": "2027-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_016_b",
+    "track_id": "trk_016",
+    "master_rights_holder": "Silas Grey Music",
+    "publishing_rights_holder": "Silas Grey Publishing",
+    "composer": ["Silas Grey"],
+    "lyricist": ["Silas Grey"],
+    "singer": ["Silas Grey"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2017-01-01",
+    "license_end_date": "2027-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_016_c",
+    "track_id": "trk_016",
+    "master_rights_holder": "Silas Grey Music",
+    "publishing_rights_holder": "Silas Grey Publishing",
+    "composer": ["Silas Grey"],
+    "lyricist": ["Silas Grey"],
+    "singer": ["Silas Grey", "Sol Reed"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2017-01-01",
+    "license_end_date": "2027-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_017_a",
+    "track_id": "trk_017",
+    "master_rights_holder": "Cleo Maren Music",
+    "publishing_rights_holder": "Cleo Maren Publishing",
+    "composer": ["Cleo Maren"],
+    "lyricist": ["Cleo Maren"],
+    "singer": ["Cleo Maren"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2015-01-01",
+    "license_end_date": "2025-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_017_b",
+    "track_id": "trk_017",
+    "master_rights_holder": "Cleo Maren Music",
+    "publishing_rights_holder": "Cleo Maren Publishing",
+    "composer": ["Cleo Maren"],
+    "lyricist": ["Cleo Maren"],
+    "singer": ["Cleo Maren"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2015-01-01",
+    "license_end_date": "2025-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_017_c",
+    "track_id": "trk_017",
+    "master_rights_holder": "Cleo Maren Music",
+    "publishing_rights_holder": "Cleo Maren Publishing",
+    "composer": ["Cleo Maren"],
+    "lyricist": ["Cleo Maren"],
+    "singer": ["Cleo Maren", "Rin Ellis"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2015-01-01",
+    "license_end_date": "2025-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_018_a",
+    "track_id": "trk_018",
+    "master_rights_holder": "Jasper Quinn Music",
+    "publishing_rights_holder": "Jasper Quinn Publishing",
+    "composer": ["Jasper Quinn"],
+    "lyricist": ["Jasper Quinn"],
+    "singer": ["Jasper Quinn"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2021-01-01",
+    "license_end_date": "2031-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_018_b",
+    "track_id": "trk_018",
+    "master_rights_holder": "Jasper Quinn Music",
+    "publishing_rights_holder": "Jasper Quinn Publishing",
+    "composer": ["Jasper Quinn"],
+    "lyricist": ["Jasper Quinn"],
+    "singer": ["Jasper Quinn"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2021-01-01",
+    "license_end_date": "2031-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_018_c",
+    "track_id": "trk_018",
+    "master_rights_holder": "Jasper Quinn Music",
+    "publishing_rights_holder": "Jasper Quinn Publishing",
+    "composer": ["Jasper Quinn"],
+    "lyricist": ["Jasper Quinn"],
+    "singer": ["Jasper Quinn", "Nova Kade"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2021-01-01",
+    "license_end_date": "2031-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_019_a",
+    "track_id": "trk_019",
+    "master_rights_holder": "Rhea Fallon Music",
+    "publishing_rights_holder": "Rhea Fallon Publishing",
+    "composer": ["Rhea Fallon"],
+    "lyricist": ["Rhea Fallon"],
+    "singer": ["Rhea Fallon"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2014-01-01",
+    "license_end_date": "2024-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_019_b",
+    "track_id": "trk_019",
+    "master_rights_holder": "Rhea Fallon Music",
+    "publishing_rights_holder": "Rhea Fallon Publishing",
+    "composer": ["Rhea Fallon"],
+    "lyricist": ["Rhea Fallon"],
+    "singer": ["Rhea Fallon"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2014-01-01",
+    "license_end_date": "2024-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_019_c",
+    "track_id": "trk_019",
+    "master_rights_holder": "Rhea Fallon Music",
+    "publishing_rights_holder": "Rhea Fallon Publishing",
+    "composer": ["Rhea Fallon"],
+    "lyricist": ["Rhea Fallon"],
+    "singer": ["Rhea Fallon", "Tess Arden"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2014-01-01",
+    "license_end_date": "2024-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_020_a",
+    "track_id": "trk_020",
+    "master_rights_holder": "Adrian Moss Music",
+    "publishing_rights_holder": "Adrian Moss Publishing",
+    "composer": ["Adrian Moss"],
+    "lyricist": ["Adrian Moss"],
+    "singer": ["Adrian Moss"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2023-01-01",
+    "license_end_date": "2033-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_020_b",
+    "track_id": "trk_020",
+    "master_rights_holder": "Adrian Moss Music",
+    "publishing_rights_holder": "Adrian Moss Publishing",
+    "composer": ["Adrian Moss"],
+    "lyricist": ["Adrian Moss"],
+    "singer": ["Adrian Moss"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2023-01-01",
+    "license_end_date": "2033-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  },
+  {
+    "version_id": "ver_020_c",
+    "track_id": "trk_020",
+    "master_rights_holder": "Adrian Moss Music",
+    "publishing_rights_holder": "Adrian Moss Publishing",
+    "composer": ["Adrian Moss"],
+    "lyricist": ["Adrian Moss"],
+    "singer": ["Adrian Moss", "Mika Sol"],
+    "rights_type_held": [
+      "master",
+      "publishing",
+      "composer",
+      "lyricist",
+      "singer"
+    ],
+    "usage_types_allowed": [
+      "movie",
+      "web series",
+      "advertisement",
+      "music video"
+    ],
+    "license_status": "active",
+    "license_start_date": "2023-01-01",
+    "license_end_date": "2033-01-01",
+    "commercial_use_allowed": true,
+    "promotional_use_only": false,
+    "previous_usages": []
+  }
+]

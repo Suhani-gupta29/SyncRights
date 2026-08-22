@@ -1,0 +1,4562 @@
+[
+  {
+    "source_track_id": "trk_001",
+    "source_version_id": "ver_001_a",
+    "suggestions": [
+      {
+        "track_id": "trk_001",
+        "version_id": "ver_001_b",
+        "title": "Velvet Comet",
+        "artist": "Nora Venn",
+        "display_label": "2022 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_001",
+        "version_id": "ver_001_c",
+        "title": "Velvet Comet",
+        "artist": "Nora Venn, DJ Solace",
+        "display_label": "Velvet Comet Night Drive Remix",
+        "version_type": "remix",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_001",
+    "source_version_id": "ver_001_b",
+    "suggestions": [
+      {
+        "track_id": "trk_001",
+        "version_id": "ver_001_a",
+        "title": "Velvet Comet",
+        "artist": "Nora Venn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_001",
+        "version_id": "ver_001_c",
+        "title": "Velvet Comet",
+        "artist": "Nora Venn, DJ Solace",
+        "display_label": "Velvet Comet Night Drive Remix",
+        "version_type": "remix",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_001",
+    "source_version_id": "ver_001_c",
+    "suggestions": [
+      {
+        "track_id": "trk_001",
+        "version_id": "ver_001_a",
+        "title": "Velvet Comet",
+        "artist": "Nora Venn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_001",
+        "version_id": "ver_001_b",
+        "title": "Velvet Comet",
+        "artist": "Nora Venn",
+        "display_label": "2022 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_002",
+    "source_version_id": "ver_002_a",
+    "suggestions": [
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_b",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "2023 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_c",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren, Elin Rowe",
+        "display_label": "Paper Lanterns Acoustic Cover",
+        "version_type": "cover",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_a",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_002",
+    "source_version_id": "ver_002_b",
+    "suggestions": [
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_c",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren, Elin Rowe",
+        "display_label": "Paper Lanterns Acoustic Cover",
+        "version_type": "cover",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_a",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_002",
+    "source_version_id": "ver_002_c",
+    "suggestions": [
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_b",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "2023 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_a",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_003",
+    "source_version_id": "ver_003_a",
+    "suggestions": [
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_b",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "2024 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_c",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen, Kade Lux",
+        "display_label": "Satellite Garden Aurora Remix",
+        "version_type": "remix",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_a",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_003",
+    "source_version_id": "ver_003_b",
+    "suggestions": [
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_a",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_c",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen, Kade Lux",
+        "display_label": "Satellite Garden Aurora Remix",
+        "version_type": "remix",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_a",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_003",
+    "source_version_id": "ver_003_c",
+    "suggestions": [
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_a",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_b",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "2024 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_a",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_004",
+    "source_version_id": "ver_004_a",
+    "suggestions": [
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_b",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "2021 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_c",
+        "title": "Copper Skies",
+        "artist": "Julian Roe, Milo Crest",
+        "display_label": "Copper Skies Live Remix",
+        "version_type": "remix",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_004",
+    "source_version_id": "ver_004_b",
+    "suggestions": [
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_c",
+        "title": "Copper Skies",
+        "artist": "Julian Roe, Milo Crest",
+        "display_label": "Copper Skies Live Remix",
+        "version_type": "remix",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_004",
+    "source_version_id": "ver_004_c",
+    "suggestions": [
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_b",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "2021 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_005",
+    "source_version_id": "ver_005_a",
+    "suggestions": [
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_b",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "2024 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_c",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss, Nox Vale",
+        "display_label": "Whisper Circuit Deep Pulse Remix",
+        "version_type": "remix",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_a",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_005",
+    "source_version_id": "ver_005_b",
+    "suggestions": [
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_c",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss, Nox Vale",
+        "display_label": "Whisper Circuit Deep Pulse Remix",
+        "version_type": "remix",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_a",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_005",
+    "source_version_id": "ver_005_c",
+    "suggestions": [
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_b",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "2024 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_a",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_006",
+    "source_version_id": "ver_006_a",
+    "suggestions": [
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_b",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "2022 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_c",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom, June Marlow",
+        "display_label": "Wildflower Motel Roadhouse Remix",
+        "version_type": "remix",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_006",
+    "source_version_id": "ver_006_b",
+    "suggestions": [
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_a",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_c",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom, June Marlow",
+        "display_label": "Wildflower Motel Roadhouse Remix",
+        "version_type": "remix",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_006",
+    "source_version_id": "ver_006_c",
+    "suggestions": [
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_a",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_b",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "2022 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_007",
+    "source_version_id": "ver_007_a",
+    "suggestions": [
+      {
+        "track_id": "trk_007",
+        "version_id": "ver_007_b",
+        "title": "Crimson Frequency",
+        "artist": "Talia Merin",
+        "display_label": "2025 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "electronic",
+          "synth pop"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_007",
+        "version_id": "ver_007_c",
+        "title": "Crimson Frequency",
+        "artist": "Talia Merin, Vex Orion",
+        "display_label": "Crimson Frequency Midnight Remix",
+        "version_type": "remix",
+        "genre": [
+          "electronic",
+          "synth pop"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_007",
+    "source_version_id": "ver_007_b",
+    "suggestions": [
+      {
+        "track_id": "trk_007",
+        "version_id": "ver_007_a",
+        "title": "Crimson Frequency",
+        "artist": "Talia Merin",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "synth pop"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_007",
+        "version_id": "ver_007_c",
+        "title": "Crimson Frequency",
+        "artist": "Talia Merin, Vex Orion",
+        "display_label": "Crimson Frequency Midnight Remix",
+        "version_type": "remix",
+        "genre": [
+          "electronic",
+          "synth pop"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_007",
+    "source_version_id": "ver_007_c",
+    "suggestions": [
+      {
+        "track_id": "trk_007",
+        "version_id": "ver_007_a",
+        "title": "Crimson Frequency",
+        "artist": "Talia Merin",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "synth pop"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_007",
+        "version_id": "ver_007_b",
+        "title": "Crimson Frequency",
+        "artist": "Talia Merin",
+        "display_label": "2025 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "electronic",
+          "synth pop"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_008",
+    "source_version_id": "ver_008_a",
+    "suggestions": [
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_b",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder, Soren Vale",
+        "display_label": "Hollow Carousel Reimagined Remix",
+        "version_type": "remix",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_c",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder, Ivy North",
+        "display_label": "Hollow Carousel Piano Cover",
+        "version_type": "cover",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_008",
+    "source_version_id": "ver_008_b",
+    "suggestions": [
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_c",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder, Ivy North",
+        "display_label": "Hollow Carousel Piano Cover",
+        "version_type": "cover",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_008",
+    "source_version_id": "ver_008_c",
+    "suggestions": [
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_b",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder, Soren Vale",
+        "display_label": "Hollow Carousel Reimagined Remix",
+        "version_type": "remix",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_009",
+    "source_version_id": "ver_009_a",
+    "suggestions": [
+      {
+        "track_id": "trk_009",
+        "version_id": "ver_009_b",
+        "title": "Ember on the Water",
+        "artist": "Sana Mirel",
+        "display_label": "2023 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "soul",
+          "R&B"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_009",
+        "version_id": "ver_009_c",
+        "title": "Ember on the Water",
+        "artist": "Sana Mirel, Juno Ray",
+        "display_label": "Ember on the Water Soul Remix",
+        "version_type": "remix",
+        "genre": [
+          "soul",
+          "R&B"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_016",
+        "version_id": "ver_016_a",
+        "title": "Amber Afterglow",
+        "artist": "Silas Grey",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "R&B",
+          "soul"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.33
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_009",
+    "source_version_id": "ver_009_b",
+    "suggestions": [
+      {
+        "track_id": "trk_009",
+        "version_id": "ver_009_a",
+        "title": "Ember on the Water",
+        "artist": "Sana Mirel",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "soul",
+          "R&B"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_009",
+        "version_id": "ver_009_c",
+        "title": "Ember on the Water",
+        "artist": "Sana Mirel, Juno Ray",
+        "display_label": "Ember on the Water Soul Remix",
+        "version_type": "remix",
+        "genre": [
+          "soul",
+          "R&B"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_016",
+        "version_id": "ver_016_a",
+        "title": "Amber Afterglow",
+        "artist": "Silas Grey",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "R&B",
+          "soul"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.33
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_009",
+    "source_version_id": "ver_009_c",
+    "suggestions": [
+      {
+        "track_id": "trk_009",
+        "version_id": "ver_009_a",
+        "title": "Ember on the Water",
+        "artist": "Sana Mirel",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "soul",
+          "R&B"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_009",
+        "version_id": "ver_009_b",
+        "title": "Ember on the Water",
+        "artist": "Sana Mirel",
+        "display_label": "2023 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "soul",
+          "R&B"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_016",
+        "version_id": "ver_016_a",
+        "title": "Amber Afterglow",
+        "artist": "Silas Grey",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "R&B",
+          "soul"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.33
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_010",
+    "source_version_id": "ver_010_a",
+    "suggestions": [
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_b",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "2020 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_c",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden, Mara Bell",
+        "display_label": "Blue Orchard Folk Cover",
+        "version_type": "cover",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_010",
+    "source_version_id": "ver_010_b",
+    "suggestions": [
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_c",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden, Mara Bell",
+        "display_label": "Blue Orchard Folk Cover",
+        "version_type": "cover",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_010",
+    "source_version_id": "ver_010_c",
+    "suggestions": [
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_b",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "2020 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_011",
+    "source_version_id": "ver_011_a",
+    "suggestions": [
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_b",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "2025 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_c",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane, Kiro Lane",
+        "display_label": "Glassbird Avenue Neon Remix",
+        "version_type": "remix",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_020",
+        "version_id": "ver_020_a",
+        "title": "Saffron Skyline",
+        "artist": "Adrian Moss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "world"
+        ],
+        "release_year": 2023,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_a",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_011",
+    "source_version_id": "ver_011_b",
+    "suggestions": [
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_c",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane, Kiro Lane",
+        "display_label": "Glassbird Avenue Neon Remix",
+        "version_type": "remix",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_020",
+        "version_id": "ver_020_a",
+        "title": "Saffron Skyline",
+        "artist": "Adrian Moss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "world"
+        ],
+        "release_year": 2023,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_a",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_011",
+    "source_version_id": "ver_011_c",
+    "suggestions": [
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_b",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "2025 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_020",
+        "version_id": "ver_020_a",
+        "title": "Saffron Skyline",
+        "artist": "Adrian Moss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "world"
+        ],
+        "release_year": 2023,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_a",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_012",
+    "source_version_id": "ver_012_a",
+    "suggestions": [
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_b",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "2022 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_c",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale, Arlo Finch",
+        "display_label": "Northbound Echo Road Remix",
+        "version_type": "remix",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_012",
+    "source_version_id": "ver_012_b",
+    "suggestions": [
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_c",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale, Arlo Finch",
+        "display_label": "Northbound Echo Road Remix",
+        "version_type": "remix",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_012",
+    "source_version_id": "ver_012_c",
+    "suggestions": [
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_b",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "2022 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_002",
+        "version_id": "ver_002_a",
+        "title": "Paper Lanterns",
+        "artist": "Callum Wren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "indie"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_013",
+    "source_version_id": "ver_013_a",
+    "suggestions": [
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_b",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "2024 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_c",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren, Aster Blue",
+        "display_label": "Marble Moonlight Dream Remix",
+        "version_type": "remix",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_a",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_013",
+    "source_version_id": "ver_013_b",
+    "suggestions": [
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_a",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_c",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren, Aster Blue",
+        "display_label": "Marble Moonlight Dream Remix",
+        "version_type": "remix",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_a",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_013",
+    "source_version_id": "ver_013_c",
+    "suggestions": [
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_a",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_013",
+        "version_id": "ver_013_b",
+        "title": "Marble Moonlight",
+        "artist": "Ayla Ren",
+        "display_label": "2024 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "dream pop",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_003",
+        "version_id": "ver_003_a",
+        "title": "Satellite Garden",
+        "artist": "Mira Solen",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "dream pop"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_014",
+    "source_version_id": "ver_014_a",
+    "suggestions": [
+      {
+        "track_id": "trk_014",
+        "version_id": "ver_014_b",
+        "title": "Rust and Reverie",
+        "artist": "Dorian Pike",
+        "display_label": "2020 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "blues",
+          "rock"
+        ],
+        "release_year": 2012,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_014",
+        "version_id": "ver_014_c",
+        "title": "Rust and Reverie",
+        "artist": "Dorian Pike, Cal Vey",
+        "display_label": "Rust and Reverie Blues Cover",
+        "version_type": "cover",
+        "genre": [
+          "blues",
+          "rock"
+        ],
+        "release_year": 2012,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_014",
+    "source_version_id": "ver_014_b",
+    "suggestions": [
+      {
+        "track_id": "trk_014",
+        "version_id": "ver_014_a",
+        "title": "Rust and Reverie",
+        "artist": "Dorian Pike",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "blues",
+          "rock"
+        ],
+        "release_year": 2012,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_014",
+        "version_id": "ver_014_c",
+        "title": "Rust and Reverie",
+        "artist": "Dorian Pike, Cal Vey",
+        "display_label": "Rust and Reverie Blues Cover",
+        "version_type": "cover",
+        "genre": [
+          "blues",
+          "rock"
+        ],
+        "release_year": 2012,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_014",
+    "source_version_id": "ver_014_c",
+    "suggestions": [
+      {
+        "track_id": "trk_014",
+        "version_id": "ver_014_a",
+        "title": "Rust and Reverie",
+        "artist": "Dorian Pike",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "blues",
+          "rock"
+        ],
+        "release_year": 2012,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_014",
+        "version_id": "ver_014_b",
+        "title": "Rust and Reverie",
+        "artist": "Dorian Pike",
+        "display_label": "2020 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "blues",
+          "rock"
+        ],
+        "release_year": 2012,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_010",
+        "version_id": "ver_010_a",
+        "title": "Blue Orchard",
+        "artist": "Theo Arden",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie",
+          "folk"
+        ],
+        "release_year": 2013,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_015",
+    "source_version_id": "ver_015_a",
+    "suggestions": [
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_b",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "2023 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_c",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan, Eko Maren",
+        "display_label": "Lunar Paper Trails Future Remix",
+        "version_type": "remix",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_001",
+        "version_id": "ver_001_a",
+        "title": "Velvet Comet",
+        "artist": "Nora Venn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_015",
+    "source_version_id": "ver_015_b",
+    "suggestions": [
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_c",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan, Eko Maren",
+        "display_label": "Lunar Paper Trails Future Remix",
+        "version_type": "remix",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_001",
+        "version_id": "ver_001_a",
+        "title": "Velvet Comet",
+        "artist": "Nora Venn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_015",
+    "source_version_id": "ver_015_c",
+    "suggestions": [
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_b",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "2023 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_001",
+        "version_id": "ver_001_a",
+        "title": "Velvet Comet",
+        "artist": "Nora Venn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_016",
+    "source_version_id": "ver_016_a",
+    "suggestions": [
+      {
+        "track_id": "trk_016",
+        "version_id": "ver_016_b",
+        "title": "Amber Afterglow",
+        "artist": "Silas Grey",
+        "display_label": "2024 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "R&B",
+          "soul"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_016",
+        "version_id": "ver_016_c",
+        "title": "Amber Afterglow",
+        "artist": "Silas Grey, Sol Reed",
+        "display_label": "Amber Afterglow Late Night Remix",
+        "version_type": "remix",
+        "genre": [
+          "R&B",
+          "soul"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_009",
+        "version_id": "ver_009_a",
+        "title": "Ember on the Water",
+        "artist": "Sana Mirel",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "soul",
+          "R&B"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_a",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.33
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_016",
+    "source_version_id": "ver_016_b",
+    "suggestions": [
+      {
+        "track_id": "trk_016",
+        "version_id": "ver_016_a",
+        "title": "Amber Afterglow",
+        "artist": "Silas Grey",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "R&B",
+          "soul"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_016",
+        "version_id": "ver_016_c",
+        "title": "Amber Afterglow",
+        "artist": "Silas Grey, Sol Reed",
+        "display_label": "Amber Afterglow Late Night Remix",
+        "version_type": "remix",
+        "genre": [
+          "R&B",
+          "soul"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_009",
+        "version_id": "ver_009_a",
+        "title": "Ember on the Water",
+        "artist": "Sana Mirel",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "soul",
+          "R&B"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_a",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.33
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_016",
+    "source_version_id": "ver_016_c",
+    "suggestions": [
+      {
+        "track_id": "trk_016",
+        "version_id": "ver_016_a",
+        "title": "Amber Afterglow",
+        "artist": "Silas Grey",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "R&B",
+          "soul"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_016",
+        "version_id": "ver_016_b",
+        "title": "Amber Afterglow",
+        "artist": "Silas Grey",
+        "display_label": "2024 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "R&B",
+          "soul"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_009",
+        "version_id": "ver_009_a",
+        "title": "Ember on the Water",
+        "artist": "Sana Mirel",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "soul",
+          "R&B"
+        ],
+        "release_year": 2018,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_006",
+        "version_id": "ver_006_a",
+        "title": "Wildflower Motel",
+        "artist": "Ezra Bloom",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie rock",
+          "folk"
+        ],
+        "release_year": 2017,
+        "similarity_score": 0.33
+      },
+      {
+        "track_id": "trk_012",
+        "version_id": "ver_012_a",
+        "title": "Northbound Echo",
+        "artist": "Ronan Hale",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "indie"
+        ],
+        "release_year": 2016,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_017",
+    "source_version_id": "ver_017_a",
+    "suggestions": [
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_b",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "2021 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_c",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren, Rin Ellis",
+        "display_label": "Tidal Letters Acoustic Cover",
+        "version_type": "cover",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_017",
+    "source_version_id": "ver_017_b",
+    "suggestions": [
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_c",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren, Rin Ellis",
+        "display_label": "Tidal Letters Acoustic Cover",
+        "version_type": "cover",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_017",
+    "source_version_id": "ver_017_c",
+    "suggestions": [
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_b",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "2021 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_008",
+        "version_id": "ver_008_a",
+        "title": "Hollow Carousel",
+        "artist": "Finn Calder",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "indie pop"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_018",
+    "source_version_id": "ver_018_a",
+    "suggestions": [
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_b",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "2025 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_c",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn, Nova Kade",
+        "display_label": "Electric Meadow Festival Remix",
+        "version_type": "remix",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_007",
+        "version_id": "ver_007_a",
+        "title": "Crimson Frequency",
+        "artist": "Talia Merin",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "synth pop"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_018",
+    "source_version_id": "ver_018_b",
+    "suggestions": [
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_c",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn, Nova Kade",
+        "display_label": "Electric Meadow Festival Remix",
+        "version_type": "remix",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_007",
+        "version_id": "ver_007_a",
+        "title": "Crimson Frequency",
+        "artist": "Talia Merin",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "synth pop"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_018",
+    "source_version_id": "ver_018_c",
+    "suggestions": [
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_b",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "2025 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_007",
+        "version_id": "ver_007_a",
+        "title": "Crimson Frequency",
+        "artist": "Talia Merin",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "synth pop"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_005",
+        "version_id": "ver_005_a",
+        "title": "Whisper Circuit",
+        "artist": "Lena Voss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "ambient"
+        ],
+        "release_year": 2020,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_015",
+        "version_id": "ver_015_a",
+        "title": "Lunar Paper Trails",
+        "artist": "Mei Rowan",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "indie pop",
+          "electronic"
+        ],
+        "release_year": 2019,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_019",
+    "source_version_id": "ver_019_a",
+    "suggestions": [
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_b",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "2022 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_c",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon, Tess Arden",
+        "display_label": "Quiet Thunder Alternative Cover",
+        "version_type": "cover",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_019",
+    "source_version_id": "ver_019_b",
+    "suggestions": [
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_c",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon, Tess Arden",
+        "display_label": "Quiet Thunder Alternative Cover",
+        "version_type": "cover",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_019",
+    "source_version_id": "ver_019_c",
+    "suggestions": [
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_b",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "2022 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.56
+      },
+      {
+        "track_id": "trk_004",
+        "version_id": "ver_004_a",
+        "title": "Copper Skies",
+        "artist": "Julian Roe",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "rock",
+          "alternative"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_017",
+        "version_id": "ver_017_a",
+        "title": "Tidal Letters",
+        "artist": "Cleo Maren",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "folk",
+          "alternative"
+        ],
+        "release_year": 2015,
+        "similarity_score": 0.4
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_020",
+    "source_version_id": "ver_020_a",
+    "suggestions": [
+      {
+        "track_id": "trk_020",
+        "version_id": "ver_020_b",
+        "title": "Saffron Skyline",
+        "artist": "Adrian Moss",
+        "display_label": "2025 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "pop",
+          "world"
+        ],
+        "release_year": 2023,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_020",
+        "version_id": "ver_020_c",
+        "title": "Saffron Skyline",
+        "artist": "Adrian Moss, Mika Sol",
+        "display_label": "Saffron Skyline Sunset Remix",
+        "version_type": "remix",
+        "genre": [
+          "pop",
+          "world"
+        ],
+        "release_year": 2023,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_020",
+    "source_version_id": "ver_020_b",
+    "suggestions": [
+      {
+        "track_id": "trk_020",
+        "version_id": "ver_020_a",
+        "title": "Saffron Skyline",
+        "artist": "Adrian Moss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "world"
+        ],
+        "release_year": 2023,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_020",
+        "version_id": "ver_020_c",
+        "title": "Saffron Skyline",
+        "artist": "Adrian Moss, Mika Sol",
+        "display_label": "Saffron Skyline Sunset Remix",
+        "version_type": "remix",
+        "genre": [
+          "pop",
+          "world"
+        ],
+        "release_year": 2023,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.33
+      }
+    ]
+  },
+  {
+    "source_track_id": "trk_020",
+    "source_version_id": "ver_020_c",
+    "suggestions": [
+      {
+        "track_id": "trk_020",
+        "version_id": "ver_020_a",
+        "title": "Saffron Skyline",
+        "artist": "Adrian Moss",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "world"
+        ],
+        "release_year": 2023,
+        "similarity_score": 0.97
+      },
+      {
+        "track_id": "trk_020",
+        "version_id": "ver_020_b",
+        "title": "Saffron Skyline",
+        "artist": "Adrian Moss",
+        "display_label": "2025 Remastered Version",
+        "version_type": "remaster",
+        "genre": [
+          "pop",
+          "world"
+        ],
+        "release_year": 2023,
+        "similarity_score": 0.9
+      },
+      {
+        "track_id": "trk_011",
+        "version_id": "ver_011_a",
+        "title": "Glassbird Avenue",
+        "artist": "Iris Keane",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "pop",
+          "alternative"
+        ],
+        "release_year": 2022,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_019",
+        "version_id": "ver_019_a",
+        "title": "Quiet Thunder",
+        "artist": "Rhea Fallon",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "alternative",
+          "pop"
+        ],
+        "release_year": 2014,
+        "similarity_score": 0.4
+      },
+      {
+        "track_id": "trk_018",
+        "version_id": "ver_018_a",
+        "title": "Electric Meadow",
+        "artist": "Jasper Quinn",
+        "display_label": "Original Studio Recording",
+        "version_type": "original",
+        "genre": [
+          "electronic",
+          "indie rock"
+        ],
+        "release_year": 2021,
+        "similarity_score": 0.33
+      }
+    ]
+  }
+]
