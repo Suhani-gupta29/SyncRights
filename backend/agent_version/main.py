@@ -1,12 +1,22 @@
-# Version Intelligence Agent — identify the exact version of a track
-# TODO: implement LLM-based version matching against seed data (Day 8)
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
-def identify_version(track_id: str, version_query: str = None):
-    """
-    Input: 
-      - track_id (str): The ID of the parent track.
-      - version_query (str, optional): User's text describing the version.
-    Output: 
-      - A single version dictionary matching SCHEMA.md > Version Schema.
-    """
-    pass  # TODO
+app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+@app.get("/version/match")
+def identify_version(track_id: str, q: str = ""):
+    # Faked response for Day 6 deployment testing
+    return {
+        "version_id": "ver_021_b",
+        "track_id": track_id,
+        "display_label": "2023 Remastered Version",
+        "version_type": "remaster",
+        "featured_artists": []
+    }
