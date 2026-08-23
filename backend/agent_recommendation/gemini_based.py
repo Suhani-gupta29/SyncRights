@@ -7,9 +7,12 @@ import json
 import os
 from datetime import datetime, timezone
 from fastapi import APIRouter
-from dotenv import load_dotenv
 
-load_dotenv()
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  # not installed on Render — fine, GOOGLE_API_KEY comes from real env var there
 
 from data_loader import load_catalog
 
