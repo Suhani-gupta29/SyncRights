@@ -1,0 +1,2 @@
+Let’s arrange with details. Sidebar we will have overview, liked & playlist(as per user wanted like current movie/series). Just below it ‘create playist’. At top we will have searchbar, filter (genre, year, artist)
+OVERVIEW:
