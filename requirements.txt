@@ -1,0 +1,4 @@
+fastapi==0.141.1
+uvicorn==0.52.4
+rapidfuzz==3.14.5
+
