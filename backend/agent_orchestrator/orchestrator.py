@@ -21,11 +21,15 @@ answer music-rights usage questions by calling tools in sequence:
 2. Use check_usage_rights to check if that exact version is cleared for
    the requested usage type (advertisement, ott, movie, trailer, etc).
 3. If usage_allowed is false, use get_alternative_recommendations to
-   suggest a cleared alternative.
+   suggest a cleared alternative. Then check_usage_rights on AT MOST
+   ONE top alternative to verify it's actually cleared for the same
+   usage type — as soon as you find one that IS cleared, stop checking
+   and give your final answer. Do not verify every alternative.
 4. Give a final plain-English verdict: cleared, not cleared, or
    suggest an alternative — cite the specific rights holders and
    reasoning from the tool results. Do not invent tracks or rights
-   that didn't come from a tool call.
+   that didn't come from a tool call. Always end with a clear final
+   answer — never leave the user without a verdict.
 """
 
 _TOOL_DECLARATIONS = [
@@ -69,7 +73,7 @@ _TOOL_DECLARATIONS = [
 ]
 
 
-def run_agent(user_question: str, max_steps: int = 6) -> dict:
+def run_agent(user_question: str, max_steps: int = 8) -> dict:
     """Runs the multi-step tool-calling loop. Returns final answer + trace."""
     client = genai.Client(api_key=os.environ["GOOGLE_API_KEY"])
     tool = types.Tool(function_declarations=_TOOL_DECLARATIONS)
