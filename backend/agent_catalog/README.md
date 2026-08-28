@@ -36,3 +36,49 @@ GET /search?q={query\_text}
 
 \- Relies on `aliases` field in Track schema for fuzzy matching
 
+
+
+
+## Day 9 — Gemini Query Cleaning
+
+The Catalog Agent uses Gemini to clean conversational and natural-language
+queries before passing them to the existing RapidFuzz search layer.
+
+### Search Pipeline
+
+User query
+    ↓
+Gemini query cleaning
+    ↓
+clean_query
+    ↓
+RapidFuzz fuzzy search
+    ↓
+data/seed_data.json
+    ↓
+matching tracks
+
+Gemini is responsible only for query cleaning.
+
+It does not:
+- select catalog tracks
+- determine the final search result
+- replace the RapidFuzz search layer
+
+### Fallback
+
+If Gemini is unavailable or the Gemini request fails, the original user
+query is passed to RapidFuzz.
+
+This allows catalog search to continue even when the Gemini service is
+temporarily unavailable.
+
+### Environment Variable
+
+The Gemini API key is provided through:
+
+GEMINI_API_KEY
+
+The API key is stored in the local `.env` file and as an environment
+variable in production. It is never committed to Git.
+
