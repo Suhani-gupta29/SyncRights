@@ -21,3 +21,9 @@ GET /recommendations?track_id={source_track_id}&version_id={source_version_id}&t
 - `similar_track` matches candidates based on shared `genre`, release era (`release_year`), and artist similarity.
 - `similarity_score` must be a normalized float between `0.0` and `1.0`.
 - Serves as the primary fallback engine when the Compliance Agent (P4) flags a requested track version as blocked or restricted.
+
+## Render Trial Links
+- https://syncrights-recommendation.onrender.com/health
+- https://syncrights-recommendation.onrender.com/recommend/rule/ver_042_a
+- https://syncrights-recommendation.onrender.com/recommend/gemini/ver_042_a
+- https://syncrights-recommendation.onrender.com/recommend/rule/ver_042_a?requested_usage=advertisement&commercial_only=true
