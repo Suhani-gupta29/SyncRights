@@ -55,7 +55,12 @@ def match_version_with_ai(track_id: str, user_query: str):
     Task: 
     1. Analyze the user's query and match it to the best available version. 
     2. For example, if they say "the new remaster", find the version_type 'remaster'.
-    3. If the query is completely ambiguous or asks for something not in the list, default to the 'original' version_type.
+    3. CRITICAL VIBE MAPPING RULES:
+       - If the user asks for "fast", "upbeat", "energetic", "dance", or "club" -> Strictly prioritize versions labeled as 'remix'.
+       - If the user asks for "slow", "quiet", "raw", "unplugged", or "chill" -> Strictly prioritize versions labeled as 'acoustic'.
+       - If the user asks for "better quality", "crisp", or "modern" -> Strictly prioritize 'remaster'.
+       - Do not default to the original version if a vibe keyword strongly suggests an alternative.
+    4. If the query is completely ambiguous and lacks any vibe keywords, only then default to the 'original' version_type.
     
     Respond ONLY with a valid JSON object in exactly this format (do not include markdown tags like ```json):
     {{
