@@ -1,6 +1,9 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
+
+
 
 try:
     from dotenv import load_dotenv
@@ -15,6 +18,16 @@ app = FastAPI(title="SyncRights Agent Orchestrator")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
+# app = FastAPI() ke theek neeche:
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"], # Yahan "*" mat lagana!
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
