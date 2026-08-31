@@ -73,7 +73,7 @@ def match_version_with_ai(track_id: str, user_query: str):
     try:
         # 3. Call Gemini using the NEW SDK
         response = client.models.generate_content(
-            model='gemini-2.5-flash',
+            model='gemini-3.6-flash',
             contents=prompt
         )
         
