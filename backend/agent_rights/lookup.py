@@ -1,5 +1,28 @@
 import json
 import os
+import clickhouse_connect
+from datetime import datetime
+
+def log_conflict(track_id: str, agent_id: str, reason: str):
+    """Logs a detected conflict directly to the shared ClickHouse database."""
+    try:
+        client = clickhouse_connect.get_client(
+            host='w2u7lzcs7w.ap-south-1.aws.clickhouse.cloud', 
+            port=8443, 
+            username='default', 
+            password='L22_NWwBqIL3V',
+            secure=True
+        )
+        
+        row = [datetime.now(), 'rights_conflict', track_id, agent_id, reason, 1]
+        
+        client.insert(
+            'events', 
+            [row], 
+            column_names=['timestamp', 'event_type', 'track_id', 'agent_id', 'conflict_reason', 'has_conflict']
+        )
+    except Exception as e:
+        print(f"ClickHouse logging failed: {e}")
 
 def get_rights_data(version_id: str):
     """
@@ -14,11 +37,14 @@ def get_rights_data(version_id: str):
         with open(file_path, 'r', encoding='utf-8') as f:
             dataset = json.load(f)
     except FileNotFoundError:
+        # Trigger conflict log if database is missing
+        log_conflict(track_id=version_id, agent_id="p3_lookup_agent", reason="Dataset Not Found")
         return {"status": "error", "message": "Dataset not found."}
 
     # Find the exact version and its rights
     for item in dataset:
         if item.get("version_id") == version_id:
+            # You can also add logic here to log a conflict if commercial_use == "No"
             return {
                 "status": "success",
                 "version_id": version_id,
@@ -29,6 +55,8 @@ def get_rights_data(version_id: str):
                 "commercial_use": item.get("commercial_use")
             }
             
+    # Trigger conflict log if rights are missing for the requested track
+    log_conflict(track_id=version_id, agent_id="p3_lookup_agent", reason="Rights Record Missing")
     return {"status": "error", "message": f"Rights for version '{version_id}' not found."}
 
 # --- DAY 10 STRESS TEST FOR P3 ---
