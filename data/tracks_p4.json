@@ -1,0 +1,606 @@
+{
+  "tracks": [
+    {
+      "track_id": "trk_061",
+      "title": "Neon Horizon",
+      "artist": "Aarav Sharma",
+      "aliases": ["Neon Horizons", "Horizon Neon"],
+      "genre": ["synthwave", "electronic"],
+      "release_year": 2022,
+      "versions": ["ver_061_a", "ver_061_b", "ver_061_c"]
+    },
+    {
+      "track_id": "trk_062",
+      "title": "Monsoon Rhapsody",
+      "artist": "Priya Sen",
+      "aliases": ["Monsoon Rhapsodies", "Rhapsody of Monsoon"],
+      "genre": ["classical fusion", "ambient"],
+      "release_year": 2020,
+      "versions": ["ver_062_a", "ver_062_b", "ver_062_c"]
+    },
+    {
+      "track_id": "trk_063",
+      "title": "Cyber Chai",
+      "artist": "Rohan Verma",
+      "aliases": ["Cyber Chai Sessions", "Chai Cyber"],
+      "genre": ["lo-fi", "chillhop"],
+      "release_year": 2023,
+      "versions": ["ver_063_a", "ver_063_b", "ver_063_c"]
+    },
+    {
+      "track_id": "trk_064",
+      "title": "Desert Mirage",
+      "artist": "Zara Khan",
+      "aliases": ["Mirage Desert", "Desert Mirages"],
+      "genre": ["world", "electronic"],
+      "release_year": 2019,
+      "versions": ["ver_064_a", "ver_064_b", "ver_064_c"]
+    },
+    {
+      "track_id": "trk_065",
+      "title": "Mumbai Metro",
+      "artist": "Karan Mehta",
+      "aliases": ["Metro Mumbai", "Mumbai Metro Pulse"],
+      "genre": ["techno", "industrial"],
+      "release_year": 2021,
+      "versions": ["ver_065_a", "ver_065_b", "ver_065_c"]
+    },
+    {
+      "track_id": "trk_066",
+      "title": "Saffron Echoes",
+      "artist": "Ananya Roy",
+      "aliases": ["Echoes of Saffron", "Saffron Echo"],
+      "genre": ["indie pop", "folk"],
+      "release_year": 2018,
+      "versions": ["ver_066_a", "ver_066_b", "ver_066_c"]
+    },
+    {
+      "track_id": "trk_067",
+      "title": "Himalayan Wind",
+      "artist": "Tenzin Norbu",
+      "aliases": ["Wind of Himalayas", "Himalayan Winds"],
+      "genre": ["ambient", "meditation"],
+      "release_year": 2017,
+      "versions": ["ver_067_a", "ver_067_b", "ver_067_c"]
+    },
+    {
+      "track_id": "trk_068",
+      "title": "Electric Sitar",
+      "artist": "Sameer Joshi",
+      "aliases": ["Sitar Electric", "Electric Sitar Rhythms"],
+      "genre": ["psychedelic rock", "fusion"],
+      "release_year": 2024,
+      "versions": ["ver_068_a", "ver_068_b", "ver_068_c"]
+    },
+    {
+      "track_id": "trk_069",
+      "title": "Bazaar Blues",
+      "artist": "Kabir Das",
+      "aliases": ["Blues of Bazaar", "Bazaar Blue"],
+      "genre": ["blues", "acoustic"],
+      "release_year": 2016,
+      "versions": ["ver_069_a", "ver_069_b", "ver_069_c"]
+    },
+    {
+      "track_id": "trk_070",
+      "title": "Starlight Ghats",
+      "artist": "Meera Iyer",
+      "aliases": ["Ghats of Starlight", "Starlight Ghat"],
+      "genre": ["classical crossover", "ambient"],
+      "release_year": 2022,
+      "versions": ["ver_070_a", "ver_070_b", "ver_070_c"]
+    },
+    {
+      "track_id": "trk_071",
+      "title": "Retro Bombay",
+      "artist": "Dev Kapoor",
+      "aliases": ["Bombay Retro", "Retro Bombay Nights"],
+      "genre": ["funk", "disco"],
+      "release_year": 2019,
+      "versions": ["ver_071_a", "ver_071_b", "ver_071_c"]
+    },
+    {
+      "track_id": "trk_072",
+      "title": "Indigo Tide",
+      "artist": "Shreya Pillai",
+      "aliases": ["Tide Indigo", "Indigo Tides"],
+      "genre": ["indie rock", "alternative"],
+      "release_year": 2021,
+      "versions": ["ver_072_a", "ver_072_b", "ver_072_c"]
+    },
+    {
+      "track_id": "trk_073",
+      "title": "Ganga Groove",
+      "artist": "Nikita Rao",
+      "aliases": ["Groove Ganga", "Ganga Grooves"],
+      "genre": ["fusion", "worldbeat"],
+      "release_year": 2020,
+      "versions": ["ver_073_a", "ver_073_b", "ver_073_c"]
+    },
+    {
+      "track_id": "trk_074",
+      "title": "Varanasi Sunset",
+      "artist": "Arjun Menon",
+      "aliases": ["Sunset in Varanasi", "Varanasi Sunsets"],
+      "genre": ["experimental", "ambient"],
+      "release_year": 2015,
+      "versions": ["ver_074_a", "ver_074_b", "ver_074_c"]
+    },
+    {
+      "track_id": "trk_075",
+      "title": "Monsoon Electric",
+      "artist": "Natasha Sen",
+      "aliases": ["Electric Monsoon", "Monsoon Electrics"],
+      "genre": ["synth pop", "electronic"],
+      "release_year": 2023,
+      "versions": ["ver_075_a", "ver_075_b", "ver_075_c"]
+    },
+    {
+      "track_id": "trk_076",
+      "title": "Royal Courtyard",
+      "artist": "Vikramaditya Singh",
+      "aliases": ["Courtyard Royal", "Royal Courtyards"],
+      "genre": ["classical", "orchestral"],
+      "release_year": 2014,
+      "versions": ["ver_076_a", "ver_076_b", "ver_076_c"]
+    },
+    {
+      "track_id": "trk_077",
+      "title": "Cybernetic Tabla",
+      "artist": "Zainab Malik",
+      "aliases": ["Tabla Cybernetic", "Cyber Tabla Beats"],
+      "genre": ["IDM", "electronic"],
+      "release_year": 2025,
+      "versions": ["ver_077_a", "ver_077_b", "ver_077_c"]
+    },
+    {
+      "track_id": "trk_078",
+      "title": "Goa Beachhouse",
+      "artist": "Sidharth Roy",
+      "aliases": ["Beachhouse Goa", "Goa Beach House"],
+      "genre": ["house", "deep house"],
+      "release_year": 2022,
+      "versions": ["ver_078_a", "ver_078_b", "ver_078_c"]
+    },
+    {
+      "track_id": "trk_079",
+      "title": "Silent Lotus",
+      "artist": "Divya Nambiar",
+      "aliases": ["Lotus Silent", "Silent Lotuses"],
+      "genre": ["acoustic", "folk"],
+      "release_year": 2018,
+      "versions": ["ver_079_a", "ver_079_b", "ver_079_c"]
+    },
+    {
+      "track_id": "trk_080",
+      "title": "Thumping Dhol",
+      "artist": "Manish Kumar",
+      "aliases": ["Dhol Thumping", "Thump Dhol"],
+      "genre": ["bhangra fusion", "dance"],
+      "release_year": 2024,
+      "versions": ["ver_080_a", "ver_080_b", "ver_080_c"]
+    }
+  ],
+  "versions": [
+    {
+      "version_id": "ver_061_a",
+      "track_id": "trk_061",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_061_b",
+      "track_id": "trk_061",
+      "display_label": "2024 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_061_c",
+      "track_id": "trk_061",
+      "display_label": "Neon Horizon Synthwave Remix",
+      "version_type": "remix",
+      "featured_artists": ["DJ Krypto"]
+    },
+    {
+      "version_id": "ver_062_a",
+      "track_id": "trk_062",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_062_b",
+      "track_id": "trk_062",
+      "display_label": "Monsoon Rhapsody Acoustic Version",
+      "version_type": "cover",
+      "featured_artists": ["Tanvi Shah"]
+    },
+    {
+      "version_id": "ver_062_c",
+      "track_id": "trk_062",
+      "display_label": "Monsoon Rhapsody Ambient Remix",
+      "version_type": "remix",
+      "featured_artists": ["Aria Sound"]
+    },
+    {
+      "version_id": "ver_063_a",
+      "track_id": "trk_063",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_063_b",
+      "track_id": "trk_063",
+      "display_label": "Cyber Chai Extended Lo-Fi Mix",
+      "version_type": "remix",
+      "featured_artists": ["Sleepy Panda"]
+    },
+    {
+      "version_id": "ver_063_c",
+      "track_id": "trk_063",
+      "display_label": "Cyber Chai Live Session",
+      "version_type": "live",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_064_a",
+      "track_id": "trk_064",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_064_b",
+      "track_id": "trk_064",
+      "display_label": "2023 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_064_c",
+      "track_id": "trk_064",
+      "display_label": "Desert Mirage Dune Remix",
+      "version_type": "remix",
+      "featured_artists": ["Sahara Beats"]
+    },
+    {
+      "version_id": "ver_065_a",
+      "track_id": "trk_065",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_065_b",
+      "track_id": "trk_065",
+      "display_label": "Mumbai Metro Industrial Mix",
+      "version_type": "remix",
+      "featured_artists": ["Sub Bass"]
+    },
+    {
+      "version_id": "ver_065_c",
+      "track_id": "trk_065",
+      "display_label": "Mumbai Metro Club Edit",
+      "version_type": "remix",
+      "featured_artists": ["DJ Nexus"]
+    },
+    {
+      "version_id": "ver_066_a",
+      "track_id": "trk_066",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_066_b",
+      "track_id": "trk_066",
+      "display_label": "2022 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_066_c",
+      "track_id": "trk_066",
+      "display_label": "Saffron Echoes Unplugged",
+      "version_type": "cover",
+      "featured_artists": ["Ria Sen"]
+    },
+    {
+      "version_id": "ver_067_a",
+      "track_id": "trk_067",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_067_b",
+      "track_id": "trk_067",
+      "display_label": "Himalayan Wind Meditation Mix",
+      "version_type": "remix",
+      "featured_artists": ["Zen Masters"]
+    },
+    {
+      "version_id": "ver_067_c",
+      "track_id": "trk_067",
+      "display_label": "Himalayan Wind Flute Cover",
+      "version_type": "cover",
+      "featured_artists": ["Karma Sound"]
+    },
+    {
+      "version_id": "ver_068_a",
+      "track_id": "trk_068",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_068_b",
+      "track_id": "trk_068",
+      "display_label": "Electric Sitar Raga Remix",
+      "version_type": "remix",
+      "featured_artists": ["Sitar X"]
+    },
+    {
+      "version_id": "ver_068_c",
+      "track_id": "trk_068",
+      "display_label": "Electric Sitar Live Jam",
+      "version_type": "live",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_069_a",
+      "track_id": "trk_069",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_069_b",
+      "track_id": "trk_069",
+      "display_label": "2021 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_069_c",
+      "track_id": "trk_069",
+      "display_label": "Bazaar Blues Slide Guitar Version",
+      "version_type": "cover",
+      "featured_artists": ["Delta Dave"]
+    },
+    {
+      "version_id": "ver_070_a",
+      "track_id": "trk_070",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_070_b",
+      "track_id": "trk_070",
+      "display_label": "Starlight Ghats Night Chorus",
+      "version_type": "remix",
+      "featured_artists": ["Celestial Sound"]
+    },
+    {
+      "version_id": "ver_070_c",
+      "track_id": "trk_070",
+      "display_label": "Starlight Ghats Classical Cover",
+      "version_type": "cover",
+      "featured_artists": ["Pandit Ravi"]
+    },
+    {
+      "version_id": "ver_071_a",
+      "track_id": "trk_071",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_071_b",
+      "track_id": "trk_071",
+      "display_label": "Retro Bombay Disco Remix",
+      "version_type": "remix",
+      "featured_artists": ["Studio 54 India"]
+    },
+    {
+      "version_id": "ver_071_c",
+      "track_id": "trk_071",
+      "display_label": "Retro Bombay Extended Version",
+      "version_type": "remix",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_072_a",
+      "track_id": "trk_072",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_072_b",
+      "track_id": "trk_072",
+      "display_label": "2024 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_072_c",
+      "track_id": "trk_072",
+      "display_label": "Indigo Tide Alternative Acoustic",
+      "version_type": "cover",
+      "featured_artists": ["Maya Ray"]
+    },
+    {
+      "version_id": "ver_073_a",
+      "track_id": "trk_073",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_073_b",
+      "track_id": "trk_073",
+      "display_label": "Ganga Groove Worldbeat Mix",
+      "version_type": "remix",
+      "featured_artists": ["Global Sound Lab"]
+    },
+    {
+      "version_id": "ver_073_c",
+      "track_id": "trk_073",
+      "display_label": "Ganga Groove Live at Rishikesh",
+      "version_type": "live",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_074_a",
+      "track_id": "trk_074",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_074_b",
+      "track_id": "trk_074",
+      "display_label": "2022 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_074_c",
+      "track_id": "trk_074",
+      "display_label": "Varanasi Sunset Drone Ambient Mix",
+      "version_type": "remix",
+      "featured_artists": ["Echo Valley"]
+    },
+    {
+      "version_id": "ver_075_a",
+      "track_id": "trk_075",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_075_b",
+      "track_id": "trk_075",
+      "display_label": "Monsoon Electric Synthwave Remix",
+      "version_type": "remix",
+      "featured_artists": ["Neon Rain"]
+    },
+    {
+      "version_id": "ver_075_c",
+      "track_id": "trk_075",
+      "display_label": "Monsoon Electric Club Mix",
+      "version_type": "remix",
+      "featured_artists": ["DJ Storm"]
+    },
+    {
+      "version_id": "ver_076_a",
+      "track_id": "trk_076",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_076_b",
+      "track_id": "trk_076",
+      "display_label": "2021 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_076_c",
+      "track_id": "trk_076",
+      "display_label": "Royal Courtyard Orchestral Cover",
+      "version_type": "cover",
+      "featured_artists": ["Delhi Symphony"]
+    },
+    {
+      "version_id": "ver_077_a",
+      "track_id": "trk_077",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_077_b",
+      "track_id": "trk_077",
+      "display_label": "Cybernetic Tabla IDM Remix",
+      "version_type": "remix",
+      "featured_artists": ["Glitch Mob India"]
+    },
+    {
+      "version_id": "ver_077_c",
+      "track_id": "trk_077",
+      "display_label": "Cybernetic Tabla Extended Beat",
+      "version_type": "remix",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_078_a",
+      "track_id": "trk_078",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_078_b",
+      "track_id": "trk_078",
+      "display_label": "Goa Beachhouse Deep House Mix",
+      "version_type": "remix",
+      "featured_artists": ["Sunburn DJ"]
+    },
+    {
+      "version_id": "ver_078_c",
+      "track_id": "trk_078",
+      "display_label": "Goa Beachhouse Sunset Acoustic",
+      "version_type": "cover",
+      "featured_artists": ["Anjuna Chill"]
+    },
+    {
+      "version_id": "ver_079_a",
+      "track_id": "trk_079",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_079_b",
+      "track_id": "trk_079",
+      "display_label": "2023 Remastered Version",
+      "version_type": "remaster",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_079_c",
+      "track_id": "trk_079",
+      "display_label": "Silent Lotus Lullaby Version",
+      "version_type": "cover",
+      "featured_artists": ["Kavita Nair"]
+    },
+    {
+      "version_id": "ver_080_a",
+      "track_id": "trk_080",
+      "display_label": "Original Studio Recording",
+      "version_type": "original",
+      "featured_artists": []
+    },
+    {
+      "version_id": "ver_080_b",
+      "track_id": "trk_080",
+      "display_label": "Thumping Dhol Bhangra Remix",
+      "version_type": "remix",
+      "featured_artists": ["Punjab Dhol Crew"]
+    },
+    {
+      "version_id": "ver_080_c",
+      "track_id": "trk_080",
+      "display_label": "Thumping Dhol Festival Edition",
+      "version_type": "live",
+      "featured_artists": ["MC Bhangra"]
+    }
+  ]
+}
